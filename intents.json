@@ -184,6 +184,16 @@
       "responses": ["Section 136 (2) RPA \n- Punishment: \n    (a) 2 years or fine or both \n    (b) 6 months or fine or both \n- Cognizable: Yes \n- Bailable: Yes"]
     },
     {
+      "tag": "definition_Cognizable",
+      "patterns": ["define cognizable", "what is meant by cognizable", "what does cognizable mean?", "what does it mean to be cognizable?"],
+      "responses":["A Cognizable offence or case is defined as the one which an officer in-charge of a police station may investigate without the order of a magistrate and effect arrest without warrant"]
+    },
+    {
+      "tag": "definition_Bailable",
+      "patterns":["define bailable", "what is meant by bailable offences", "what does bailable mean", "what does it mean to be bailable?"],
+      "responses":["Bailable offences are those offences or crimes that are not very serious in nature. In such cases bail is a right and the arrested person must be released after depositing the bail with the police. The police have the power to grant bail in these types of cases."]
+    },
+    {
       "tag": "election_offences",
       "patterns": ["all legal provisions","list all of the legal provisions related to elections","What are the legal provisions relating to elections?","List of election offences","Election laws"],
       "responses": [
