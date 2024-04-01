@@ -98,7 +98,11 @@
       "patterns": ["Breach of official duty", "What is provision for breach of official duty?", "What is the punishment for breach of official duty?", "Is breach of official duty cognizable?", "Is breach of official duty bailable?"],
       "responses": ["Section 32-RPA - Punishment: 3 months to 2 years with fine - Cognizable: No - Bailable: Yes"]
     },
-            
+    {
+      "tag": "section_125_RPA",
+      "patterns": ["Promoting enmity between classes in c/w election", "What is provision for promoting enmity between classes in c/w election?", "What is the punishment for promoting enmity between classes in c/w election?", "Is promoting enmity between classes in c/w election cognizable?", "Is promoting enmity between classes in c/w election bailable?"],
+      "responses": ["Section 125-RPA - Punishment: 3 years or fine or both - Cognizable: Yes - Bailable: No"]
+    },            
     {
       "tag": "election_offences",
       "patterns": ["What are the legal provisions relating to elections?","List of election offences","Election laws"],
