@@ -391,7 +391,16 @@
 
       ]
     
+    },
+    {
+      "tag": "south_district_police_assembly_constituencies",
+      "patterns": ["assembly constituencies","assembly constituencies south district","Assembly Constituencies within South District Police jurisdiction", "Which Assembly Constituencies fall under South District Police?", "What are the Assembly Constituencies in South District Police jurisdiction?", "South District Police Assembly Constituencies"],
+      "responses": ["New Delhi n Parliamentary Constituency-04n -Ac No.-40\nAc Name- New Delhi\nPolice Station Area- Hauz Khas, Lodhi Colony\n-Ac No.-42\nAC Name KASTURBA NAGAR\nPolice Station Area HAUZ KHAS, DEFENCE COLONY, LODHI COLONY, K.M.PUR\n-AC No.- 43\nAC Name- MALVIYA NAGAR\nPolice Station Area- HAUZ KHAS, MALVIYA NAGAR\n-AC No.- 50\nAC Name- GREATER KAILASH\nPolice Station Area- HAUZ KHAS, MALVIYA NAGAR, C.R. PARK, GREATER KAILASH"]
+    },
+    {
+      "tag": "south_district_police_parliamentary_constituencies",
+      "patterns": ["Parliamentary Constituencies within South District Police jurisdiction", "Which Parliamentary Constituencies fall under South District Police?", "What are the Parliamentary Constituencies in South District Police jurisdiction?", "South District Police Parliamentary Constituencies"],
+      "responses": ["New Delhi n Parliamentary Constituency-04n -Ac No.-40\nAc Name- New Delhi"]
     }
-
   ]
 }
