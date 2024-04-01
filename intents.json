@@ -92,7 +92,13 @@
       "tag": "section_31_RPA",
       "patterns": ["making false declaration","Making false declaration", "What is provision for making false declaration?", "What is the punishment for making false declaration?", "Is making false declaration cognizable?", "Is making false declaration bailable?"],
       "responses": ["Section 31 RPA - Punishment: One year or fine or both - Cognizable: No - Bailable: Yes"]
-    },    
+    },
+    {
+      "tag": "section_32_RPA",
+      "patterns": ["Breach of official duty", "What is provision for breach of official duty?", "What is the punishment for breach of official duty?", "Is breach of official duty cognizable?", "Is breach of official duty bailable?"],
+      "responses": ["Section 32-RPA - Punishment: 3 months to 2 years with fine - Cognizable: No - Bailable: Yes"]
+    },
+            
     {
       "tag": "election_offences",
       "patterns": ["What are the legal provisions relating to elections?","List of election offences","Election laws"],
