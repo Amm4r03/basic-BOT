@@ -53,7 +53,7 @@ class ChatApplication:
         self.msg_entry.bind("<Return>", self._on_enter_pressed)
         
         # send button
-        send_button = Button(bottom_label, text="Send", font=FONT_BOLD, width=20, bg=BG_GRAY,
+        send_button = Button(bottom_label,background='#05d7ff' ,foreground='BLACK',highlightthickness=2,highlightbackground='#05d7ff',highlightcolor='WHITE' ,activebackground='#65e7ff',activeforeground='BLACK', text="Send", font=FONT_BOLD, width=20, bg=BG_GRAY,
                              command=lambda: self._on_enter_pressed(None))
         send_button.place(relx=0.77, rely=0.008, relheight=0.06, relwidth=0.22)
      
