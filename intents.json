@@ -114,6 +114,11 @@
       "responses": ["Section 127-RPA - Punishment: 6 months or Rs.2000/- or both - Cognizable: Yes - Bailable: Yes"]
     },    
     {
+      "tag": "section_127_RPA_A",
+      "patterns": ["Failure to mention name and address of printer/publisher on pamphlets", "What is provision for failure to mention name and address of printer/publisher on pamphlets?", "What is the punishment for failure to mention name and address of printer/publisher on pamphlets?", "Is failure to mention name and address of printer/publisher on pamphlets cognizable?", "Is failure to mention name and address of printer/publisher on pamphlets bailable?"],
+      "responses": ["Section 127-RPA (A) - Punishment: 6 months or Rs.2000/- or both - Cognizable: No - Bailable: Yes"]
+    },    
+    {
       "tag": "election_offences",
       "patterns": ["What are the legal provisions relating to elections?","List of election offences","Election laws"],
       "responses": [
