@@ -34,7 +34,10 @@
     },
     {
       "tag": "contacts",
-      "patterns": ["important contacts of south district?"],
+      "patterns": ["important contacts of south district?",
+                  "Important contacts of election cell",
+                  "Contacts of election cell of south district"
+    ],
       "responses": [
         "1 Inspr Ghanshyam Kishore  Election Cell SD  9873772000 \n 2 Inspr Vijay Dhayia  Inspr Election Cell  9999173026 \n3 SI Anil Beniwal  Election Cell  8750870595 \n4 SI Ashok Kumar Election Cell  9289800634 \n5 SI Sunil Kumar  Election Cell  9582560488 \n6 SI Mohan Lal  Election Cell  9910399448 District Control Room-South District  011 26523967 011-26528994 \nCentral Police Control Room 112"
       ]
