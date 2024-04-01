@@ -40,6 +40,11 @@
       ]
     },
     {
+      "tag": "section_171-E",
+      "patterns": ["giving and accepting bribe", "What is provision for giving and accepting bribe?", "What is the punishment for giving and accepting bribe?","Is giving and accepting bribe cognizable?","Is giving and accepting bribe bailable?"],
+      "responses": ["Section 171-E of IPC\nPunishment: 1 year or fine or both\nCognizable: Yes\nBailable: No"]
+    },
+    {
       "tag": "election_offences",
       "patterns": [
         "What are the legal provisions relating to elections?",
