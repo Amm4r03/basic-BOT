@@ -71,58 +71,118 @@
     {
       "tag": "section_153-A(1)",
       "patterns": ["social groups enmity", "enmity between social groups","promoting enmity between social groups","promoting enmity between different social groups leading to disharmony", "What is provision for promoting enmity between different social groups leading to disharmony?", "What is the punishment for promoting enmity between different social groups leading to disharmony?", "Is promoting enmity between different social groups leading to disharmony cognizable?", "Is promoting enmity between different social groups leading to disharmony bailable?"],
-      "responses": ["Section 153-A(1) of IPC - Punishment: 3 Years or fine or both - Cognizable: Yes - Bailable: No"]
+      "responses": ["Section 153-A(1) of IPC \n- Punishment: 3 Years or fine or both \n- Cognizable: Yes \n- Bailable: No"]
     },    
     {
       "tag": "section_153-A(2)",
       "patterns": ["religious gathering enmity","religious place enmity","enmity between social groups religious place","Promoting enmity between social group leading to disharmony in religious place or religious gathering", "What is provision for promoting enmity between social group leading to disharmony in religious place or religious gathering?", "What is the punishment for promoting enmity between social group leading to disharmony in religious place or religious gathering?", "Is promoting enmity between social group leading to disharmony in religious place or religious gathering cognizable?", "Is promoting enmity between social group leading to disharmony in religious place or religious gathering bailable?"],
-      "responses": ["Section 153-A(2) of IPC - Punishment: 5 years and fine also - Cognizable: Yes - Bailable: No"]
+      "responses": ["Section 153-A(2) of IPC \n- Punishment: 5 years and fine also \n- Cognizable: Yes \n- Bailable: No"]
     },    
     {
       "tag": "section_153-B(1)",
       "patterns": ["Imputation assertions prejudicial to national integration", "What is provision for imputation assertions prejudicial to national integration?", "What is the punishment for imputation assertions prejudicial to national integration?", "Is imputation assertions prejudicial to national integration cognizable?", "Is imputation assertions prejudicial to national integration bailable?"],
-      "responses": ["Section 153-B(1) of IPC - Punishment: 3 years & fine or both - Cognizable: Yes - Bailable: No"]
+      "responses": ["Section 153-B(1) of IPC \n- Punishment: 3 years & fine or both \n- Cognizable: Yes \n- Bailable: No"]
     },    
     {
       "tag": "section_153-B(2)",
       "patterns": ["Imputations assertion prejudicial to national integration committed at a religious place or gathering", "What is provision for imputations assertion prejudicial to national integration committed at a religious place or gathering?", "What is the punishment for imputations assertion prejudicial to national integration committed at a religious place or gathering?", "Is imputations assertion prejudicial to national integration committed at a religious place or gathering cognizable?", "Is imputations assertion prejudicial to national integration committed at a religious place or gathering bailable?"],
-      "responses": ["Section 153-B(2) of IPC - Punishment: 5 years & also fine - Cognizable: Yes - Bailable: No"]
+      "responses": ["Section 153-B(2) of IPC \n- Punishment: 5 years & also fine \n- Cognizable: Yes \n- Bailable: No"]
     },
     {
       "tag": "section_31_RPA",
       "patterns": ["making false declaration","Making false declaration", "What is provision for making false declaration?", "What is the punishment for making false declaration?", "Is making false declaration cognizable?", "Is making false declaration bailable?"],
-      "responses": ["Section 31 RPA - Punishment: One year or fine or both - Cognizable: No - Bailable: Yes"]
+      "responses": ["Section 31 RPA \n- Punishment: One year or fine or both \n- Cognizable: No \n- Bailable: Yes"]
     },
     {
       "tag": "section_32_RPA",
       "patterns": ["Breach of official duty", "What is provision for breach of official duty?", "What is the punishment for breach of official duty?", "Is breach of official duty cognizable?", "Is breach of official duty bailable?"],
-      "responses": ["Section 32-RPA - Punishment: 3 months to 2 years with fine - Cognizable: No - Bailable: Yes"]
+      "responses": ["Section 32-RPA \n- Punishment: 3 months to 2 years with fine \n- Cognizable: No \n- Bailable: Yes"]
     },
     {
       "tag": "section_125_RPA",
       "patterns": ["Promoting enmity between classes in c/w election", "What is provision for promoting enmity between classes in c/w election?", "What is the punishment for promoting enmity between classes in c/w election?", "Is promoting enmity between classes in c/w election cognizable?", "Is promoting enmity between classes in c/w election bailable?"],
-      "responses": ["Section 125-RPA - Punishment: 3 years or fine or both - Cognizable: Yes - Bailable: No"]
+      "responses": ["Section 125-RPA \n- Punishment: 3 years or fine or both \n- Cognizable: Yes \n- Bailable: No"]
     },          
     {
       "tag": "section_126_RPA",
       "patterns": ["Holding of public meeting on the preceding day the polling day", "What is provision for holding of public meeting on the preceding day the polling day?", "What is the punishment for holding of public meeting on the preceding day the polling day?", "Is holding of public meeting on the preceding day the polling day cognizable?", "Is holding of public meeting on the preceding day the polling day bailable?"],
-      "responses": ["Section 126-RPA - Punishment: Rs.250/- - Cognizable: No - Bailable: Yes"]
+      "responses": ["Section 126-RPA \n- Punishment: Rs.250/- \n- Cognizable: No \n- Bailable: Yes"]
     },      
     {
       "tag": "section_127_RPA",
       "patterns": ["Causing disturbance at election meeting", "What is provision for causing disturbance at election meeting?", "What is the punishment for causing disturbance at election meeting?", "Is causing disturbance at election meeting cognizable?", "Is causing disturbance at election meeting bailable?"],
-      "responses": ["Section 127-RPA - Punishment: 6 months or Rs.2000/- or both - Cognizable: Yes - Bailable: Yes"]
+      "responses": ["Section 127-RPA \n- Punishment: 6 months or Rs.2000/- or both \n- Cognizable: Yes \n- Bailable: Yes"]
     },    
     {
       "tag": "section_127_RPA_A",
       "patterns": ["Failure to mention name and address of printer/publisher on pamphlets", "What is provision for failure to mention name and address of printer/publisher on pamphlets?", "What is the punishment for failure to mention name and address of printer/publisher on pamphlets?", "Is failure to mention name and address of printer/publisher on pamphlets cognizable?", "Is failure to mention name and address of printer/publisher on pamphlets bailable?"],
-      "responses": ["Section 127-RPA (A) - Punishment: 6 months or Rs.2000/- or both - Cognizable: No - Bailable: Yes"]
+      "responses": ["Section 127-RPA (A) \n- Punishment: 6 months or Rs.2000/- or both \n- Cognizable: No \n- Bailable: Yes"]
     },    
     {
       "tag": "section_128_RPA",
       "patterns": ["Violation of secrecy by staff in respect of voting and posters etc.", "What is provision for violation of secrecy by staff in respect of voting and posters etc.?", "What is the punishment for violation of secrecy by staff in respect of voting and posters etc.?", "Is violation of secrecy by staff in respect of voting and posters etc. cognizable?", "Is violation of secrecy by staff in respect of voting and posters etc. bailable?"],
-      "responses": ["Section 128-RPA - Punishment: 3 months or fine or both - Cognizable: No - Bailable: Yes"]
+      "responses": ["Section 128-RPA \n- Punishment: 3 months or fine or both \n- Cognizable: No \n- Bailable: Yes"]
     },    
+    {
+      "tag": "section_129_RPA_3",
+      "patterns": ["use of influence by officer on duty at election for voting","Use of influence by officer on duty at an election for voting", "What is provision for use of influence by officer on duty at an election for voting?", "What is the punishment for use of influence by officer on duty at an election for voting?", "Is use of influence by officer on duty at an election for voting cognizable?", "Is use of influence by officer on duty at an election for voting bailable?"],
+      "responses": ["Section 129 (3) RPA \n- Punishment: 6 months or fine or both \n- Cognizable: Yes \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_130_2_RPA",
+      "patterns": ["canvassing on polling day","Canvassing on polling day", "What is provision for canvassing on polling day?", "What is the punishment for canvassing on polling day?", "Is canvassing on polling day cognizable?", "Is canvassing on polling day bailable?"],
+      "responses": ["Section 130(2) RPA \n- Punishment: Rs.250/- \n- Cognizable: Yes \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_131_2_RPA",
+      "patterns": ["disorderly conduct in polling station","disorderly conduct near polling station","Disorderly conduct in or near polling station", "What is provision for disorderly conduct in or near polling station?", "What is the punishment for disorderly conduct in or near polling station?", "Is disorderly conduct in or near polling station cognizable?", "Is disorderly conduct in or near polling station bailable?"],
+      "responses": ["Section 131(2) RPA \n- Punishment: 3 months or fine or both \n- Cognizable: No \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_132_RPA",
+      "patterns": ["Misconduct at polling station", "What is provision for misconduct at polling station?", "What is the punishment for misconduct at polling station?", "Is misconduct at polling station cognizable?", "Is misconduct at polling station bailable?"],
+      "responses": ["Section 132-RPA \n- Punishment: 3 months or fine or both \n- Cognizable: Yes \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_133_RPA",
+      "patterns": ["illegal transporation of voters","Illegal procuring/hiring of vehicles at an election for transportation of voters", "What is provision for illegal procuring/hiring of vehicles at an election for transportation of voters?", "What is the punishment for illegal procuring/hiring of vehicles at an election for transportation of voters?", "Is illegal procuring/hiring of vehicles at an election for transportation of voters cognizable?", "Is illegal procuring/hiring of vehicles at an election for transportation of voters bailable?"],
+      "responses": ["Section 133-RPA \n- Punishment: 3 months with fine \n- Cognizable: No \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_134_RPA",
+      "patterns": ["Breach of official duty in connection with election", "What is provision for breach of official duty in connection with election?", "What is the punishment for breach of official duty in connection with election?", "Is breach of official duty in connection with election cognizable?", "Is breach of official duty in connection with election bailable?"],
+      "responses": ["Section 134-RPA \n- Punishment: Rs.500/- \n- Cognizable: Yes \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_134_A_RPA",
+      "patterns": ["Acting as electing agent, polling agent or counting agent by Govt. Servant", "What is provision for acting as electing agent, polling agent or counting agent by Govt. Servant?", "What is the punishment for acting as electing agent, polling agent or counting agent by Govt. Servant?", "Is acting as electing agent, polling agent or counting agent by Govt. Servant cognizable?", "Is acting as electing agent, polling agent or counting agent by Govt. Servant bailable?"],
+      "responses": ["Section 134(A) RPA \n- Punishment: 3 months or fine or both \n- Cognizable: No \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_134_B_RPA",
+      "patterns": ["Prohibition of going armed to or near a polling station", "What is provision for prohibition of going armed to or near a polling station?", "What is the punishment for prohibition of going armed to or near a polling station?", "Is prohibition of going armed to or near a polling station cognizable?", "Is prohibition of going armed to or near a polling station bailable?"],
+      "responses": ["Section 134 (B) RPA \n- Punishment: 2 years or with fine or both \n- Cognizable: Yes \n- Bailable: Yes"]
+    },    
+    {
+      "tag": "section_135_1_RPA",
+      "patterns": ["removal of ballot paper","ballot paper removed","removal of ballot paper","Removal of Ballot-papers from polling stations", "What is provision for removal of Ballot-papers from polling stations?", "What is the punishment for removal of Ballot-papers from polling stations?", "Is removal of Ballot-papers from polling stations cognizable?", "Is removal of Ballot-papers from polling stations bailable?"],
+      "responses": ["Section 135 (1) RPA \n- Punishment: 1 year or Rs.500/- or both \n- Cognizable: Yes \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_135_A_RPA",
+      "patterns": ["Booth capturing by a) Govt Servant on duty b) Public", "What is provision for booth capturing by a) Govt Servant on duty b) Public?", "What is the punishment for booth capturing by a) Govt Servant on duty b) Public?", "Is booth capturing by a) Govt Servant on duty b) Public cognizable?", "Is booth capturing by a) Govt Servant on duty b) Public bailable?"],
+      "responses": ["Section 135 (A) RPA \n- Punishment: \n    (a) 3 year to 5 years with fine. \n    (b) 1 year to 3 year with fine for others \n- Cognizable: Yes \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_135_c_RPA",
+      "patterns": ["liquor sale polling date", "liquor sale on polling","liquor sold on poll","Liquor not to be sold, given or distributed on polling date", "What is provision for liquor not to be sold, given or distributed on polling date?", "What is the punishment for liquor not to be sold, given or distributed on polling date?", "Is liquor not to be sold, given or distributed on polling date cognizable?", "Is liquor not to be sold, given or distributed on polling date bailable?"],
+      "responses": ["Section 135 (c) RPA \n- Punishment: 6 months with fine of Rs.2000/- or both \n- Cognizable: No \n- Bailable: Yes"]
+    },
+    {
+      "tag": "section_136_2_RPA",
+      "patterns": ["invalid paper in ballot box","paper other than ballot paper in ballot box","fradulent act in document","fraudulent act in list notice","fraudulent act in respect paper","Fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box a) if such act ammoniated by an officer on election duty b) if such act committed by public", "What is provision for fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box a) if such act ammoniated by an officer on election duty b) if such act committed by public?", "What is the punishment for fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box a) if such act ammoniated by an officer on election duty b) if such act committed by public?", "Is fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box cognizable?", "Is fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box bailable?"],
+      "responses": ["Section 136 (2) RPA \n- Punishment: \n    (a) 2 years or fine or both \n    (b) 6 months or fine or both \n- Cognizable: Yes \n- Bailable: Yes"]
+    },
     {
       "tag": "election_offences",
       "patterns": ["election legal provisions","list all of the legal provisions related to elections","What are the legal provisions relating to elections?","List of election offences","Election laws"],
