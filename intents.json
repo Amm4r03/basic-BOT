@@ -109,6 +109,11 @@
       "responses": ["Section 126-RPA - Punishment: Rs.250/- - Cognizable: No - Bailable: Yes"]
     },      
     {
+      "tag": "section_127_RPA",
+      "patterns": ["Causing disturbance at election meeting", "What is provision for causing disturbance at election meeting?", "What is the punishment for causing disturbance at election meeting?", "Is causing disturbance at election meeting cognizable?", "Is causing disturbance at election meeting bailable?"],
+      "responses": ["Section 127-RPA - Punishment: 6 months or Rs.2000/- or both - Cognizable: Yes - Bailable: Yes"]
+    },    
+    {
       "tag": "election_offences",
       "patterns": ["What are the legal provisions relating to elections?","List of election offences","Election laws"],
       "responses": [
