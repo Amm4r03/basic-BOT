@@ -64,6 +64,11 @@
       "responses": ["Section 171-HIPC of IPC\nPunishment: Rs.500/-\nCognizable: No\nBailable: Yes"]
     },    
     {
+      "tag": "section_171-I",
+      "patterns": ["Failure to keep election Accounts", "What is provision for failure to keep election Accounts?", "What is the punishment for failure to keep election Accounts?", "Is failure to keep election Accounts cognizable?", "Is failure to keep election Accounts bailable?"],
+      "responses": ["Section 171-I of IPC\nPunishment: -do-\nCognizable: No\nBailable: Yes"]
+    },    
+    {
       "tag": "election_offences",
       "patterns": [
         "What are the legal provisions relating to elections?",
