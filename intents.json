@@ -48,16 +48,12 @@
       "tag": "section_171-F",
       "patterns": ["undue influence at an election", "Using undue influence or Personation at an election", "What is provision for using undue influence or Personation at an election?", "What is the punishment for using undue influence or Personation at an election?", "Is using undue influence or Personation at an election cognizable?", "Is using undue influence or Personation at an election bailable?"
       ],
-      "responses": [
-        "Section 171-F of IPC\nPunishment: 1 year or fine or both\nCognizable: Yes\nBailable: Yes"
-      ]
+      "responses": ["Section 171-F of IPC\nPunishment: 1 year or fine or both\nCognizable: Yes\nBailable: Yes"]
     },
     {
       "tag": "section_171-G",
-      "patterns": ["false statement in election","False statement in connection with election", "What is provision for false statement in connection with election?", "What is the punishment for false statement in connection with election?", "Is false statement in connection with election cognizable?", "Is false statement in connection with election bailable?"],
-      "responses": [
-        "Section 171-G of IPC\nPunishment: Fine\nCognizable: No\nBailable: Yes"
-      ]
+      "patterns": ["false statement in election","False statement in connection with election", "What is provision for false statement in connection with election?", "What is the punishment for false statement in connection with election?", "Is false statement in connection with election cognizable?", "Is false statement in connection with election bailable?", "what is the legal provision if a person gives a false statement in election?"],
+      "responses": ["Section 171-G of IPC\nPunishment: Fine\nCognizable: No\nBailable: Yes"]
     },    
     {
       "tag": "election_offences",
