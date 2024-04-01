@@ -33,6 +33,11 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
+      "tag":"help",
+      "patterns":["help", "help me out", "i need help", "please help"],
+      "responses":["Hi! I am the Delhi Police Bot! Ask me about election related details such as\n1 : dos and donts in elections\n2: ask me about legal provisions\n3: ask me about permissible and non permissible activities\n4:ask me about important contacts\n5: ask me about the provisions provided in the IPC\n"]
+    },
+    {
       "tag": "contacts",
       "patterns": ["important contacts of south district?",
                   "Important contacts of election cell",
