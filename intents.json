@@ -57,7 +57,7 @@
     },
     {
       "tag": "section_171-HIPC",
-      "patterns": ["Illegal payment in connection with election", "What is provision for illegal payment in connection with election?", "What is the punishment for illegal payment in connection with election?", "Is illegal payment in connection with election cognizable?", "Is illegal payment in connection with election bailable?"],
+      "patterns": ["punishment for illegal payment in election","illegal payment in election","Illegal payment in connection with election", "What is provision for illegal payment in connection with election?", "What is the punishment for illegal payment in connection with election?", "Is illegal payment in connection with election cognizable?", "Is illegal payment in connection with election bailable?"],
       "responses": ["Section 171-HIPC of IPC\nPunishment: Rs.500/-\nCognizable: No\nBailable: Yes"]
     },    
     {
