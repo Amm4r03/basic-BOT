@@ -69,6 +69,11 @@
       "responses": ["Section 171-I of IPC\nPunishment: -do-\nCognizable: No\nBailable: Yes"]
     },    
     {
+      "tag": "section_153-A(1)",
+      "patterns": ["social groups enmity", "enmity between social groups","promoting enmity between social groups","promoting enmity between different social groups leading to disharmony", "What is provision for promoting enmity between different social groups leading to disharmony?", "What is the punishment for promoting enmity between different social groups leading to disharmony?", "Is promoting enmity between different social groups leading to disharmony cognizable?", "Is promoting enmity between different social groups leading to disharmony bailable?"],
+      "responses": ["Section 153-A(1) of IPC - Punishment: 3 Years or fine or both - Cognizable: Yes - Bailable: No"]
+    },    
+    {
       "tag": "election_offences",
       "patterns": [
         "What are the legal provisions relating to elections?",
