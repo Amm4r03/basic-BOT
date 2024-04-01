@@ -88,7 +88,11 @@
       "patterns": ["Imputations assertion prejudicial to national integration committed at a religious place or gathering", "What is provision for imputations assertion prejudicial to national integration committed at a religious place or gathering?", "What is the punishment for imputations assertion prejudicial to national integration committed at a religious place or gathering?", "Is imputations assertion prejudicial to national integration committed at a religious place or gathering cognizable?", "Is imputations assertion prejudicial to national integration committed at a religious place or gathering bailable?"],
       "responses": ["Section 153-B(2) of IPC - Punishment: 5 years & also fine - Cognizable: Yes - Bailable: No"]
     },
-
+    {
+      "tag": "section_31_RPA",
+      "patterns": ["making false declaration","Making false declaration", "What is provision for making false declaration?", "What is the punishment for making false declaration?", "Is making false declaration cognizable?", "Is making false declaration bailable?"],
+      "responses": ["Section 31 RPA - Punishment: One year or fine or both - Cognizable: No - Bailable: Yes"]
+    },    
     {
       "tag": "election_offences",
       "patterns": ["What are the legal provisions relating to elections?","List of election offences","Election laws"],
