@@ -54,6 +54,11 @@
       "tag": "section_171-G",
       "patterns": ["false statement in election","False statement in connection with election", "What is provision for false statement in connection with election?", "What is the punishment for false statement in connection with election?", "Is false statement in connection with election cognizable?", "Is false statement in connection with election bailable?", "what is the legal provision if a person gives a false statement in election?"],
       "responses": ["Section 171-G of IPC\nPunishment: Fine\nCognizable: No\nBailable: Yes"]
+    },
+    {
+      "tag": "section_171-HIPC",
+      "patterns": ["Illegal payment in connection with election", "What is provision for illegal payment in connection with election?", "What is the punishment for illegal payment in connection with election?", "Is illegal payment in connection with election cognizable?", "Is illegal payment in connection with election bailable?"],
+      "responses": ["Section 171-HIPC of IPC\nPunishment: Rs.500/-\nCognizable: No\nBailable: Yes"]
     },    
     {
       "tag": "election_offences",
