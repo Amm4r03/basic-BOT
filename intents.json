@@ -74,6 +74,22 @@
       "responses": ["Section 153-A(1) of IPC - Punishment: 3 Years or fine or both - Cognizable: Yes - Bailable: No"]
     },    
     {
+      "tag": "section_153-A(2)",
+      "patterns": ["religious gathering enmity","religious place enmity","enmity between social groups religious place","Promoting enmity between social group leading to disharmony in religious place or religious gathering", "What is provision for promoting enmity between social group leading to disharmony in religious place or religious gathering?", "What is the punishment for promoting enmity between social group leading to disharmony in religious place or religious gathering?", "Is promoting enmity between social group leading to disharmony in religious place or religious gathering cognizable?", "Is promoting enmity between social group leading to disharmony in religious place or religious gathering bailable?"],
+      "responses": ["Section 153-A(2) of IPC - Punishment: 5 years and fine also - Cognizable: Yes - Bailable: No"]
+    },    
+    {
+      "tag": "section_153-B(1)",
+      "patterns": ["Imputation assertions prejudicial to national integration", "What is provision for imputation assertions prejudicial to national integration?", "What is the punishment for imputation assertions prejudicial to national integration?", "Is imputation assertions prejudicial to national integration cognizable?", "Is imputation assertions prejudicial to national integration bailable?"],
+      "responses": ["Section 153-B(1) of IPC - Punishment: 3 years & fine or both - Cognizable: Yes - Bailable: No"]
+    },    
+    {
+      "tag": "section_153-B(2)",
+      "patterns": ["Imputations assertion prejudicial to national integration committed at a religious place or gathering", "What is provision for imputations assertion prejudicial to national integration committed at a religious place or gathering?", "What is the punishment for imputations assertion prejudicial to national integration committed at a religious place or gathering?", "Is imputations assertion prejudicial to national integration committed at a religious place or gathering cognizable?", "Is imputations assertion prejudicial to national integration committed at a religious place or gathering bailable?"],
+      "responses": ["Section 153-B(2) of IPC - Punishment: 5 years & also fine - Cognizable: Yes - Bailable: No"]
+    },
+        
+    {
       "tag": "election_offences",
       "patterns": [
         "What are the legal provisions relating to elections?",
