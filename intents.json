@@ -175,7 +175,7 @@
     },
     {
       "tag": "section_135_A_RPA",
-      "patterns": ["Booth capturing by a) Govt Servant on duty b) Public", "What is provision for booth capturing by a) Govt Servant on duty b) Public?", "What is the punishment for booth capturing by a) Govt Servant on duty b) Public?", "Is booth capturing by a) Govt Servant on duty b) Public cognizable?", "Is booth capturing by a) Govt Servant on duty b) Public bailable?"],
+      "patterns": ["booth captured publically", "booth captured by public","booth captured by govt servant", "booth captured", "booth capturing","Booth capturing by a) Govt Servant on duty b) Public", "What is provision for booth capturing by a) Govt Servant on duty b) Public?", "What is the punishment for booth capturing by a) Govt Servant on duty b) Public?", "Is booth capturing by a) Govt Servant on duty b) Public cognizable?", "Is booth capturing by a) Govt Servant on duty b) Public bailable?"],
       "responses": ["Section 135 (A) RPA \n- Punishment: \n    (a) 3 year to 5 years with fine. \n    (b) 1 year to 3 year with fine for others \n- Cognizable: Yes \n- Bailable: Yes"]
     },
     {
