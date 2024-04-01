@@ -224,6 +224,36 @@
       ]
     },
     {
+      "tag": "dont_advertisements",
+      "patterns": ["Advertisements regarding achievements of the party/Government", "Are government advertisements allowed for party achievements?", "Are advertisements about government achievements permitted?", "Government achievements advertisement"],
+      "response": ["No advertisements at the cost of the public exchequer regarding achievements of the party/Government in power is permitted."]
+    },
+    {
+      "tag": "dont_ministers_polling_station",
+      "patterns": ["Ministers entering polling stations or places of counting", "Can ministers enter polling stations?", "Are ministers allowed inside polling stations?","minister entering polling station"],
+      "response": ["No Minister shall enter any polling station or the place of counting, unless he or she is a candidate or as a voter only for voting."]
+    },
+    {
+      "tag": "dont_mix_official_campaigning",
+      "patterns": ["Mixing official work with campaigning/electioneering", "Can official work be mixed with campaigning?", "Is campaigning allowed during official work hours?", "official work with campaign", "camaign during official work"],
+      "response": ["Official work should not at all be mixed with campaigning/electioneering."]
+    },
+    {
+      "tag": "dont_offer_inducements",
+      "patterns": ["Offering inducements to voters", "Can inducements be offered to voters?", "Are financial inducements to voters allowed?", "inducements given to voters", "inducements to voters"],
+      "response": ["No inducement, financial or otherwise, shall be offered to the voter."]
+    },
+    {
+      "tag": "dont_appeal_caste_communal",
+      "patterns": ["Appealing to caste/communal feelings of electors", "Is appealing to caste/communal feelings allowed?", "Can candidates appeal to caste/communal feelings?", "appeal to caste feeling", "appeal to cast", "appeal to communal feeling", "appeal to caste sentiment", "appeal to communal sentiment"],
+      "response": ["Caste/communal feelings of the electors shall not be appealed to."]
+    },
+    {
+      "tag": "dont_aggravate_differences",
+      "patterns": ["Aggravating existing differences between groups", "Can activities aggravate differences between groups?", "Is it allowed to cause tension between different groups?"],
+      "response": ["No activity, which may aggravate existing differences or create mutual hatred or cause tension between different castes, communities or religious or linguistic groups shall be attempted."]
+    },
+    {
       "tag": "election commision donts",
       "patterns": [
         "Don'ts",
