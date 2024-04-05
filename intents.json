@@ -645,7 +645,128 @@
       "responses": [
         "Sh. Ashok Kumar\n- Call Sign: Siera-3\n- Phone No.: 8750870803, 9582036629, 26865965, 26526530\n- Email: adcp2.south@delhipolice.gov.in"
       ]
-    },             
+    }, 
+    {
+      "tag": "Harish_Chandler_ACP_Hauz_Khas",
+      "patterns": [
+        "Harish Chander contact details",
+        "Contact details for ACP Hauz Khas",
+        "Who is the ACP of Hauz Khas?"
+      ],
+      "responses": [
+        "Sh. Harish Chander\n- Place of Posting: ACP/Hauz Khas\n- Call Sign: Siera-4\n- Phone No.: 8750870804, 9868858722\n- Email: acp-hauzkhas-dl@nic.in"
+      ]
+    },
+    {
+      "tag": "Vijay_Kumar_ACP_Mehrauli",
+      "patterns": [
+        "Vijay Kumar contact details",
+        "Contact details for ACP Mehrauli",
+        "Who is the ACP of Mehrauli?"
+      ],
+      "responses": [
+        "Sh. Vijay Kumar\n- Place of Posting: ACP/Mehrauli\n- Call Sign: Siera-5\n- Phone No.: 26644203, 8750870805, 9818270338\n- Email: acp-mehrauli-dl.nic.in"
+      ]
+    },
+    {
+      "tag": "Rajendra_Singh_ACP_Defence_Colony",
+      "patterns": [
+        "Rajendra Singh contact details",
+        "Contact details for ACP Defence Colony",
+        "Who is the ACP of Defence Colony?"
+      ],
+      "responses": [
+        "Sh. Rajendra Singh\n- Place of Posting: ACP/Defence Colony\n- Call Sign: Siera-6\n- Phone No.: 26258486, 8750870806, 9811082660\n- Email: acp-defencecolony-dl.nic.in"
+      ]
+    },
+    {
+      "tag": "Abhinendra_Jain_ACP_HQ",
+      "patterns": [
+        "Abhinendra Jain contact details",
+        "Contact details for ACP HQ",
+        "Who is the ACP of HQ?"
+      ],
+      "responses": [
+        "Sh. Abhinendra Jain\n- Place of Posting: ACP/HQ\n- Call Sign: Siera-09\n- Phone No.: 9911122383\n- Nodal Officer for Election Cell/South District"
+      ]
+    },
+    {
+      "tag": "Rajesh_Kumar_ACP_Ops_Cell_SD",
+      "patterns": [
+        "Rajesh Kumar contact details",
+        "Contact details for ACP Ops Cell SD",
+        "Who is the ACP of Ops Cell SD?"
+      ],
+      "responses": [
+        "Sh. Rajesh Kumar\n- Place of Posting: ACP/Ops Cell/SD\n- Call Sign: Siera-10\n- Phone No.: 8448301558"
+      ]
+    },
+    {
+      "tag": "Amreek_Raj_Birdi_ACP_PG_Cell_DIU_SD",
+      "patterns": [
+        "Amreek Raj Birdi contact details",
+        "Contact details for ACP PG Cell DIU SD",
+        "Who is the ACP of PG Cell DIU SD?"
+      ],
+      "responses": [
+        "Sh. Amreek Raj Birdi\n- Place of Posting: ACP/P.G. Cell/SD & ACP/DIU (SD)\n- Call Sign: Siera-12 & 14\n- Phone No.: 9868167557, 26692492\n- Nodal Officer for Single Window Permission"
+      ]
+    },
+    {
+      "tag": "Neeraj_Tokas_ACP_CR_Park",
+      "patterns": [
+        "Neeraj Tokas contact details",
+        "Contact details for ACP C.R. Park",
+        "Who is the ACP of C.R. Park?"
+      ],
+      "responses": [
+        "Ms. Neeraj Tokas\n- Place of Posting: ACP/C.R. Park\n- Call Sign: Siera-7\n- Phone No.: 8750870807, 9811600811"
+      ]
+    },
+    {
+      "tag": "KM_Priyanka_ACP_Sangam_Vihar",
+      "patterns": [
+        "KM Priyanka contact details",
+        "Contact details for ACP Sangam Vihar",
+        "Who is the ACP of Sangam Vihar?"
+      ],
+      "responses": [
+        "Ms. K.M. Priyanka, IPS\n- Place of Posting: ACP/Sangam Vihar\n- Call Sign: Siera-8\n- Phone No.: 26041471, 8750870808, 9742533911\n- Email: acp-sangamvhr-dl@delhipolice.gov.in"
+      ]
+    },
+    {
+      "tag": "Mukesh_Balyan_SHO_Fatehpur_Beri",
+      "patterns": [
+        "Mukesh Balyan contact details",
+        "Contact details for SHO Fatehpur Beri",
+        "Who is the SHO of Fatehpur Beri?"
+      ],
+      "responses": [
+        "Inspr. Mukesh Balyan\n- Place of Posting: SHO/Fatehpur Beri\n- Call Sign: Siera-26\n- Phone No.: 8750870826, 26659611, 26659511"
+      ]
+    },
+    {
+      "tag": "Sanjeev_Mandal_SHO_Lodhi_Colony",
+      "patterns": [
+        "Sanjeev Mandal contact details",
+        "Contact details for SHO Lodhi Colony",
+        "Who is the SHO of Lodhi Colony?"
+      ],
+      "responses": [
+        "Inspr. Sanjeev Mandal\n- Place of Posting: SHO/Lodhi Colony\n- Call Sign: Siera-29\n- Phone No.: 8750870829, 24620283, 24611753"
+      ]
+    },
+    {
+      "tag": "Arun_Kumar_Verma_SHO_Cyber",
+      "patterns": [
+        "Arun Kumar Verma contact details",
+        "Contact details for SHO Cyber",
+        "Who is the SHO of Cyber?"
+      ],
+      "responses": [
+        "Inspr. Sh. Arun Kumar Verma\n- Place of Posting: SHO/Cyber\n- Call Sign: Siera-36\n- Phone No.: 9871698330"
+      ]
+    },            
     {
       "tag": "List of DPO",
       "patterns": [
