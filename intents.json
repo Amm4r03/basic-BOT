@@ -1383,7 +1383,7 @@
   ]
 },
 {
-  "tag": "PS GK",
+  "tag": "SPOS GK",
   "patterns": [
       "special police officers in ps gk",
       "list of special police officers in ps GK",
@@ -1393,6 +1393,181 @@
   "responses": [
       "SECTOR OFFICER NAME : ABHAY\nSECTOR OFFICER CONTACT NO. 9636014299\nAC NO 45\n\nSECTOR OFFICER NAME : CHANDER PRAKASH MEENA\nSECTOR OFFICER CONTACT NO. 9910769635\nAC NO 48\n\nSECTOR OFFICER NAME : RAJENDER KUMAR\nSECTOR OFFICER CONTACT NO. 9971866754\nAC NO 48\n\nSECTOR OFFICER NAME : RAMKESH MALI\nSECTOR OFFICER CONTACT NO. 9887846639\nAC NO 48\n\nSECTOR OFFICER NAME : P. NARESH CHAWAN\nSECTOR OFFICER CONTACT NO. 9014197111\nAC NO 48\n\nSECTOR OFFICER NAME : NAMAN VERMA\nSECTOR OFFICER CONTACT NO. 7507091039\nAC NO 48\n\nSECTOR OFFICER NAME : HEMANT KUMAR PANIDA\nSECTOR OFFICER CONTACT NO. 8860017940\nAC NO 48\n\nSECTOR OFFICER NAME : AKSHAY KUMAR\nSECTOR OFFICER CONTACT NO. 9711282135\nAC NO 48"
   ]
-}    
+},
+{
+"tag": "SPOS DEFENCE COLONY",
+"patterns": [
+    "special police officers in ps defence colony",
+    "list of special police officers in ps DEFENCE COLONY",
+          "SPOs in ps DEFENCE COLONY",
+          "SPOs ps DEFENCE COLONY",
+          "list of special police officers in police station DEFENCE COLONY",
+          "SPOs in police station DEFENCE COLONY",
+          "SPOs police station DEFENCE COLONY"
+],
+"responses": [
+    "SECTOR OFFICER NAME : AJIT\nSECTOR OFFICER CONTACT NO. 9811654723\nAC NO 46\n\nSECTOR OFFICER NAME : MAHABIR JHA\nSECTOR OFFICER CONTACT NO. 9632971294\nAC NO 46\n\nSECTOR OFFICER NAME : PARAMJIT\nSECTOR OFFICER CONTACT NO. 9718510008\nAC NO 46\n\nSECTOR OFFICER NAME : MADAN\nSECTOR OFFICER CONTACT NO. 7838448540\nAC NO 46\n\nSECTOR OFFICER NAME : HARISH\nSECTOR OFFICER CONTACT NO. 9911261779\nAC NO 46\n\nSECTOR OFFICER NAME : GHANSHAYAM\nSECTOR OFFICER CONTACT NO. 9910727695\nAC NO 46\n\nSECTOR OFFICER NAME : ANANT JAY BHATT\nSECTOR OFFICER CONTACT NO. 9711413073\nAC NO 46\n\nSECTOR OFFICER NAME : DARWAN\nSECTOR OFFICER CONTACT NO. 9810661351\nAC NO 46"
+]
+},
+{
+  "tag": "SPOs LODHI COLONY",
+  "patterns": [
+      "special police officers in lodhi colony",
+      "list of special police officers in ps lodhi colony",
+          "SPOs in ps lodhi colony",
+          "SPOs ps lodhi colony",
+          "list of special police officers in police station lodhi colony",
+          "SPOs in police station lodhi colony",
+          "SPOs police station lodhi colony"
+
+  ],
+  "responses": [
+      "SECTOR OFFICER NAME : ANURAG\nSECTOR OFFICER CONTACT NO. 9868330510\nAC NO 46\n\nSECTOR OFFICER NAME : DEVENDER\nSECTOR OFFICER CONTACT NO. 8130029734\nAC NO 46\n\nSECTOR OFFICER NAME : CHATAR\nSECTOR OFFICER CONTACT NO. 9410815880\nAC NO 46\n\nSECTOR OFFICER NAME : SANTRAM SINGH\nSECTOR OFFICER CONTACT NO. 9968541259\nAC NO 46\n\nSECTOR OFFICER NAME : SANJEED ALAM\nSECTOR OFFICER CONTACT NO. 8130982447\nAC NO 46\n\nSECTOR OFFICER NAME : PANKAJ\nSECTOR OFFICER CONTACT NO. 7976756882\nAC NO 46\n\nSECTOR OFFICER NAME : RAHUL\nSECTOR OFFICER CONTACT NO. 9711413073\nAC NO 46"
+  ]
+} ,
+{
+  "tag": "SPOS MAIDAN GARHI",
+  "patterns": [
+      "special police officers in ps maidan garhi",
+      "list of special police officers in ps maidan garhi",
+          "SPOs in ps maidan garhi",
+          "SPOs ps maidan garhi",
+          "list of special police officers in police station maidan garhi",
+          "SPOs in police station maidan garhi",
+          "SPOs police station maidan garhi"
+  ],
+  "responses": [
+      "SECTOR OFFICER NAME : RAJENDER PRASAD MEENA\nSECTOR OFFICER CONTACT NO. 8447684072\nAC NO 46\n\nSECTOR OFFICER NAME : RAJENDER\nSECTOR OFFICER CONTACT NO. 9953212648\nAC NO 46\n\nSECTOR OFFICER NAME : RAJESH\nSECTOR OFFICER CONTACT NO. 7005685848\nAC NO 46\n\nSECTOR OFFICER NAME : RAVINDER\nSECTOR OFFICER CONTACT NO. 9910060778\nAC NO 46\n\nSECTOR OFFICER NAME : SACHCHIDA NAND\nSECTOR OFFICER CONTACT NO. 7417845053\nAC NO 46\n\nSECTOR OFFICER NAME : SANJAY KUMAR GUPTA\nSECTOR OFFICER CONTACT NO. 9891857661\nAC NO 46\n\nSECTOR OFFICER NAME : SAWAN CHAHAL\nSECTOR OFFICER CONTACT NO. 9467508765\nAC NO 47\n\nSECTOR OFFICER NAME : PRABHAT SINGH\nSECTOR OFFICER CONTACT NO. 9560445297\nAC NO 47"
+  ]
+},
+{
+  "tag": "SPOS HAUZ KHAS",
+  "patterns": [
+      "special police officers in ps hauz khas",
+      "list of special police officers in ps HAUZ KHAS",
+          "SPOs in ps HAUZ KHAS",
+          "SPOs ps HAUZ KHAS",
+          "list of special police officers in police station HAUZ KHAS",
+          "SPOs in police station HAUZ KHAS",
+          "SPOs police station HAUZ KHAS"
+  ],
+  "responses": [
+      "SECTOR OFFICER NAME : NAVEEN KUAMR RATHEE\nSECTOR OFFICER CONTACT NO. 8851363209\nAC NO 47\n\nSECTOR OFFICER NAME : PRABHU RAM\nSECTOR OFFICER CONTACT NO. 9887822466, 9664057385\nAC NO 47\n\nSECTOR OFFICER NAME : RAJENDRA\nSECTOR OFFICER CONTACT NO. 9599808304\nAC NO 47\n\nSECTOR OFFICER NAME : RAJPAL SINGH\nSECTOR OFFICER CONTACT NO. 8077954486\nAC NO 47\n\nSECTOR OFFICER NAME : R.C.MISHRA\nSECTOR OFFICER CONTACT NO. 9868171850\nAC NO 47\n\nSECTOR OFFICER NAME : R.N. UPADHYAY\nSECTOR OFFICER CONTACT NO. 8800267493\nAC NO 47\n\nSECTOR OFFICER NAME : RAVINDER VERMA\nSECTOR OFFICER CONTACT NO. 7398434502\nAC NO 47\n\nSECTOR OFFICER NAME : SANJAY KUMAR\nSECTOR OFFICER CONTACT NO. 9868724575\nAC NO 47"
+  ]
+},
+{
+  "tag": "SPOS CR PARK",
+  "patterns": [
+      "special police officers in ps cr park",
+      "list of special police officers in ps CR PARK",
+          "SPOs in ps CR PARK",
+          "SPOs ps CR PARK",
+          "list of special police officers in police station CR PARK",
+          "SPOs in police station CR PARK",
+          "SPOs police station CR PARK"
+  ],
+  "responses": [
+      "SECTOR OFFICER NAME : VIVEK SINGH\nSECTOR OFFICER CONTACT NO. 8860529482\nAC NO 47\n\nSECTOR OFFICER NAME : JAVED AHMAD SHEIKH\nSECTOR OFFICER CONTACT NO. 9417666314\nAC NO 47\n\nSECTOR OFFICER NAME : MANISH KUMAR\nSECTOR OFFICER CONTACT NO. 9821919964\nAC NO 47\n\nSECTOR OFFICER NAME : IMRAN AHMAD KHAN\nSECTOR OFFICER CONTACT NO. 9582766388\nAC NO 47\n\nSECTOR OFFICER NAME : ANAND KUMAR\nSECTOR OFFICER CONTACT NO. 9711577058\nAC NO 47\n\nSECTOR OFFICER NAME : MAHIPAL MEENA\nSECTOR OFFICER CONTACT NO. 7834841144, 7428244548\nAC NO 47\n\nSECTOR OFFICER NAME : SWARNENDU GANGULY\nSECTOR OFFICER CONTACT NO. 8826564114\nAC NO 48\n\nSECTOR OFFICER NAME : ANIL KUMAR\nSECTOR OFFICER CONTACT NO. 99102542445\nAC NO 48"
+  ]
+},
+{
+  "tag": "SPOS TIGRI",
+  "patterns": [
+      "special police officers in ps tigri",
+      "list of special police officers in ps TIGRI",
+          "SPOs in ps tigri",
+          "SPOs ps tigri",
+          "list of special police officers in police station TIGRI",
+          "SPOs in police station TIGRI",
+          "SPOs police station TIGRI"
+  ],
+  "responses": [
+      "SECTOR OFFICER NAME : SURESH ASHIWAL\nSECTOR OFFICER CONTACT NO. 9871430303\nAC NO 48\n\nSECTOR OFFICER NAME : BHUPENDER KUMAR\nSECTOR OFFICER CONTACT NO. 9811045923\nAC NO 48\n\nSECTOR OFFICER NAME : SANJAY SINGH\nSECTOR OFFICER CONTACT NO. 9013173323\nAC NO 48\n\nSECTOR OFFICER NAME : BANSHI LAL\nSECTOR OFFICER CONTACT NO. 7897527941\nAC NO 48\n\nSECTOR OFFICER NAME : ASHISH SANGHA\nSECTOR OFFICER CONTACT NO. 9810056909\nAC NO 48\n\nSECTOR OFFICER NAME : AMIT KUMAR SHARMA\nSECTOR OFFICER CONTACT NO. 9958245900\nAC NO 48\n\nSECTOR OFFICER NAME : SUNIL DUTT SUDHIR\nSECTOR OFFICER CONTACT NO. 9319365120\nAC NO 48\n\nSECTOR OFFICER NAME : MAYANK JAIN\nSECTOR OFFICER CONTACT NO. 9462628484\nAC NO 49"
+  ]
+},
+[
+  {
+      "tag": "flying squad AC name Kasturba Nagar South",
+      "patterns": [
+          "Special police officers in AC No. 42 Kasturba Nagar South detailed in flying squad",
+          "list of special police officers in ps Kasturba Nagar South detailed in flying squad",
+          "SPOs in ps Kasturba Nagar South detailed in flying squad",
+          "SPOs ps Kasturba Nagar South detailed in flying squad",
+          "list of special police officers in police station Kasturba Nagar South detailed in flying squad",
+          "SPOs in police station Kasturba Nagar South detailed in flying squad",
+          "SPOs police station Kasturba Nagar South detailed in flying squad"
+      ],
+      "responses": [
+          "SI KARAN SINGH \n ASI JAI RAM MEENA \n CT AMIT KUMAR \n CT RAJESH KUMAR \n SI PREM SINGH \n HC BHUDEV SHRMA \n CT SOMDUTT \n CT PAWAN YADAV"
+      ]
+  },
+  {
+      "tag": "flying squad AC name Malviya Nagar South",
+      "patterns": [
+          "Special police officers in AC No. 43 Malviya Nagar South detailed in flying squad"
+      ],
+      "responses": [
+          "HC SHIV RAM \n ASI Ramkishan \n CT Sunil \n CT Shersingh"
+      ]
+  },
+  {
+      "tag": "flying squad AC name Mehrauli South",
+      "patterns": [
+          "Special police officers in AC No. 45 Mehrauli South detailed in flying squad"
+      ],
+      "responses": [
+          "SI DINESH KUMAR \n HC MAHESH KUMAR \n CT RINKU \n CT ASHUTOSH"
+      ]
+  },
+  {
+      "tag": "flying squad AC name Chhatarpur South",
+      "patterns": [
+          "Special police officers in AC No. 46 Chhatarpur South detailed in flying squad"
+      ],
+      "responses": [
+          "ASI MAHESH KUMAR \n HC SHRI RAM KAJLA \n CT. DEVI SINGH \n CT. MAHIPAL \n SI Devender Singh \n ASI Jagroop Singh \n HC Manjeet \n Ct. Ashok Kumar"
+      ]
+  },
+  {
+      "tag": "flying squad AC name Deoli South",
+      "patterns": [
+          "Special police officers in AC No. 47 Deoli South detailed in flying squad"
+      ],
+      "responses": [
+          "ASI Manhor lal \n HC Brijesh \n HC SUNIL \n Ct Mahesh \n ASI Rajneesh \n HC Dinesh \n HC Rajpal \n Ct Manjeet \n SI BACHURAM \n ASI AJIT \n CT SAWAN \n CT ARUN"
+      ]
+  },
+  {
+      "tag": "flying squad AC name Ambedkar Nagar South",
+      "patterns": [
+          "Special police officers in AC No. 48 Ambedkar Nagar South detailed in flying squad"
+      ],
+      "responses": [
+          "SI DAL CHAND \n ASI AJAY \n HC MUKESH \n HC SUNIL \n SI HARPHOOL \n ASI CHATER SAIN \n HC PREETAM \n CT RAJESH \n SI Sukhlal \n HC Jitender \n CT Sharwan \n CT Sanjeev"
+      ]
+  },
+  {
+      "tag": "flying squad AC name Sangam Vihar ",
+      "patterns": [
+          "Special police officers in AC No. 49 Sangam Vihar South detailed in flying squad"
+      ],
+      "responses": [
+          "ASI BHAJAN LAL \n HC JITENDER \n HC BACCHOO SINGH \n HC CHARAN SINGH"
+      ]
+  },
+  {
+      "tag": " flying squad AC name Greater Kailash South  ",
+      "patterns": [
+          "Special police officers in PS Greater Kailash South detailed in flying squad"
+      ],
+      "responses": [
+          "ASI RAM BABU \n ASI MAHESH \n ASI SATENDRA \n HC VARUN \n ASI Chander Pal \n ASI Omprakash \n HC Saurabh Kumar \n HC Gajender"
+      ]
+  }
+]
+
+
+
+
   ]
 }
