@@ -362,9 +362,16 @@
     },
     {
       "tag": "manned_border_checkpoints",
-      "patterns": ["Manned Border Checkpoints"],
+      "patterns": ["Manned Border Checkpoints", "manned checkpoints"],
       "responses": [
         "Manned Border Checkpoints:\n1. Aya Nagar Picket, Aya Nagar Village, Delhi-Gurugram Road\n2. Jheel Khurd, Dera Goan, Delhi-Faridabad Border\n3. Gawal Pahari, Mandi Village, Delhi-Gurugram Border"
+      ]
+    },    
+    {
+      "tag": "motorable_border_checkpoints",
+      "patterns": ["Motorable Border Checkpoints", "motorable checkpoints"],
+      "responses": [
+        "Motorable Border Checkpoints:\n1. Aya Nagar Picket, Aya Nagar Village, Delhi-Gurugram Road\n2. Jheel Khurd, Dera Goan, Delhi-Faridabad Border\n3. Gawal Pahari, Mandi Village, Delhi-Gurugram Border"
       ]
     },    
     {
