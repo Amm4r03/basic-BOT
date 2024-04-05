@@ -219,34 +219,69 @@
       "responses": ["Section 130(2) RPA \n- Punishment: Rs.250/- \n- Cognizable: Yes \n- Bailable: Yes"]
     },
     {
+      "tag": "section_130(2)-RPA-converse",
+      "patterns": ["section 130(2) RPA", "130(2) RPA", "130(2)RPA"],
+      "responses": ["section 130(2)-RPA\nOffense: canvassing on polling day\nPunishment: Rs.250/-\nCognizable: Yes\nBailable: Yes"]
+    },    
+    {
       "tag": "section_131_2_RPA",
       "patterns": ["disorderly conduct in polling station","disorderly conduct near polling station","Disorderly conduct in or near polling station", "What is provision for disorderly conduct in or near polling station?", "What is the punishment for disorderly conduct in or near polling station?", "Is disorderly conduct in or near polling station cognizable?", "Is disorderly conduct in or near polling station bailable?"],
       "responses": ["Section 131(2) RPA \n- Punishment: 3 months or fine or both \n- Cognizable: No \n- Bailable: Yes"]
     },
+    {
+      "tag": "section_131(2)-RPA-converse",
+      "patterns": ["section 131(2) RPA", "131(2) RPA", "131(2)RPA"],
+      "responses": ["section 131(2)-RPA\nOffense: disorderly conduct in or near polling station\nPunishment: 3 months or fine or both\nCognizable: No\nBailable: Yes"]
+    },    
     {
       "tag": "section_132_RPA",
       "patterns": ["Misconduct at polling station", "What is provision for misconduct at polling station?", "What is the punishment for misconduct at polling station?", "Is misconduct at polling station cognizable?", "Is misconduct at polling station bailable?"],
       "responses": ["Section 132-RPA \n- Punishment: 3 months or fine or both \n- Cognizable: Yes \n- Bailable: Yes"]
     },
     {
+      "tag": "section_132-RPA-converse",
+      "patterns": ["section 132 RPA", "132 RPA", "132RPA"],
+      "responses": ["section 132-RPA\nOffense: misconduct at polling station\nPunishment: 3 months or fine or both\nCognizable: Yes\nBailable: Yes"]
+    },    
+    {
       "tag": "section_133_RPA",
       "patterns": ["illegal transporation of voters","Illegal procuring/hiring of vehicles at an election for transportation of voters", "What is provision for illegal procuring/hiring of vehicles at an election for transportation of voters?", "What is the punishment for illegal procuring/hiring of vehicles at an election for transportation of voters?", "Is illegal procuring/hiring of vehicles at an election for transportation of voters cognizable?", "Is illegal procuring/hiring of vehicles at an election for transportation of voters bailable?"],
       "responses": ["Section 133-RPA \n- Punishment: 3 months with fine \n- Cognizable: No \n- Bailable: Yes"]
     },
+    {
+      "tag": "section_133-RPA-converse",
+      "patterns": ["section 133 RPA", "133 RPA", "133RPA"],
+      "responses": ["section 133-RPA\nOffense: illegal procuring/hiring of vehicles at an election for transportation of voters\nPunishment: 3 months with fine\nCognizable: No\nBailable: Yes"]
+    },    
     {
       "tag": "section_134_RPA",
       "patterns": ["Breach of official duty in connection with election", "What is provision for breach of official duty in connection with election?", "What is the punishment for breach of official duty in connection with election?", "Is breach of official duty in connection with election cognizable?", "Is breach of official duty in connection with election bailable?"],
       "responses": ["Section 134-RPA \n- Punishment: Rs.500/- \n- Cognizable: Yes \n- Bailable: Yes"]
     },
     {
+      "tag": "section_134-RPA-converse",
+      "patterns": ["section 134 RPA", "134 RPA", "134RPA"],
+      "responses": ["section 134-RPA\nOffense: breach of official duty in connection with election\nPunishment: Rs.500/-\nCognizable: Yes\nBailable: Yes"]
+    },    
+    {
       "tag": "section_134_A_RPA",
       "patterns": ["Acting as electing agent, polling agent or counting agent by Govt. Servant", "What is provision for acting as electing agent, polling agent or counting agent by Govt. Servant?", "What is the punishment for acting as electing agent, polling agent or counting agent by Govt. Servant?", "Is acting as electing agent, polling agent or counting agent by Govt. Servant cognizable?", "Is acting as electing agent, polling agent or counting agent by Govt. Servant bailable?"],
       "responses": ["Section 134(A) RPA \n- Punishment: 3 months or fine or both \n- Cognizable: No \n- Bailable: Yes"]
     },
     {
+      "tag": "section_134(A)-RPA-converse",
+      "patterns": ["section 134(A) RPA", "134(A) RPA", "134(A)RPA"],
+      "responses": ["section 134(A)-RPA\nOffense: acting as electing agent, polling agent or counting agent by Govt. Servant\nPunishment: 3 months or fine or both\nCognizable: No\nBailable: Yes"]
+    },    
+    {
       "tag": "section_134_B_RPA",
       "patterns": ["Prohibition of going armed to or near a polling station", "What is provision for prohibition of going armed to or near a polling station?", "What is the punishment for prohibition of going armed to or near a polling station?", "Is prohibition of going armed to or near a polling station cognizable?", "Is prohibition of going armed to or near a polling station bailable?"],
       "responses": ["Section 134 (B) RPA \n- Punishment: 2 years or with fine or both \n- Cognizable: Yes \n- Bailable: Yes"]
+    },    
+    {
+      "tag": "section_134(B)-RPA-converse",
+      "patterns": ["section 134(B) RPA", "134(B) RPA", "134(B)RPA"],
+      "responses": ["section 134(B)-RPA\nOffense: prohibition of going armed to or near a polling station\nPunishment: 2 years or with fine or both\nCognizable: Yes\nBailable: Yes"]
     },    
     {
       "tag": "section_135_1_RPA",
@@ -254,20 +289,40 @@
       "responses": ["Section 135 (1) RPA \n- Punishment: 1 year or Rs.500/- or both \n- Cognizable: Yes \n- Bailable: Yes"]
     },
     {
+      "tag": "section_135(1)-RPA-converse",
+      "patterns": ["section 135(1) RPA", "135(1) RPA", "135(1)RPA"],
+      "responses": ["section 135(1)-RPA\nOffense: removal of Ballot-papers from polling stations\nPunishment: 1 year or Rs.500/- or both\nCognizable: Yes\nBailable: Yes"]
+    },    
+    {
       "tag": "section_135_A_RPA",
       "patterns": ["booth captured publically", "booth captured by public","booth captured by govt servant", "booth captured", "booth capturing","Booth capturing by a) Govt Servant on duty b) Public", "What is provision for booth capturing by a) Govt Servant on duty b) Public?", "What is the punishment for booth capturing by a) Govt Servant on duty b) Public?", "Is booth capturing by a) Govt Servant on duty b) Public cognizable?", "Is booth capturing by a) Govt Servant on duty b) Public bailable?"],
       "responses": ["Section 135 (A) RPA \n- Punishment: \n    (a) 3 year to 5 years with fine. \n    (b) 1 year to 3 year with fine for others \n- Cognizable: Yes \n- Bailable: Yes"]
     },
+    {
+      "tag": "section_135(A)-RPA-converse",
+      "patterns": ["section 135(A) RPA", "135(A) RPA", "135(A)RPA"],
+      "responses": ["section 135(A)-RPA\nOffense: booth capturing by a) Govt Servant on duty b) Public\nPunishment: (a) 3 year to 5 years with fine. (b) 1 year to 3 year with fine for others\nCognizable: Yes\nBailable: Yes"]
+    },    
     {
       "tag": "section_135_c_RPA",
       "patterns": ["liquor sale polling date", "liquor sale on polling","liquor sold on poll","Liquor not to be sold, given or distributed on polling date", "What is provision for liquor not to be sold, given or distributed on polling date?", "What is the punishment for liquor not to be sold, given or distributed on polling date?", "Is liquor not to be sold, given or distributed on polling date cognizable?", "Is liquor not to be sold, given or distributed on polling date bailable?"],
       "responses": ["Section 135 (c) RPA \n- Punishment: 6 months with fine of Rs.2000/- or both \n- Cognizable: No \n- Bailable: Yes"]
     },
     {
+      "tag": "section_135(C)-RPA-converse",
+      "patterns": ["section 135(C) RPA", "135(C) RPA", "135(C)RPA"],
+      "responses": ["section 135(C)-RPA\nOffense: liquor not to be sold, given or distributed on polling date\nPunishment: 6 months with fine of Rs.2000/- or both\nCognizable: No\nBailable: Yes"]
+    },    
+    {
       "tag": "section_136_2_RPA",
       "patterns": ["invalid paper in ballot box","paper other than ballot paper in ballot box","fradulent act in document","fraudulent act in list notice","fraudulent act in respect paper","Fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box a) if such act ammoniated by an officer on election duty b) if such act committed by public", "What is provision for fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box a) if such act ammoniated by an officer on election duty b) if such act committed by public?", "What is the punishment for fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box a) if such act ammoniated by an officer on election duty b) if such act committed by public?", "Is fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box cognizable?", "Is fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box bailable?"],
       "responses": ["Section 136 (2) RPA \n- Punishment: \n    (a) 2 years or fine or both \n    (b) 6 months or fine or both \n- Cognizable: Yes \n- Bailable: Yes"]
     },
+    {
+      "tag": "section_136(2)-RPA-converse",
+      "patterns": ["section 136(2) RPA", "136(2) RPA", "136(2)RPA"],
+      "responses": ["section 136(2)-RPA\nOffense: fraudulent act in respect paper, list notice or other document affixed by R.O.; supply/receipt of ballot paper putting any thing except ballot paper into ballot box a) if such act ammoniated by an officer on election duty b) if such act committed by public.\nPunishment: (a) 2 years or fine or both (b) 6 months or fine or both\nCognizable: Yes\nBailable: Yes"]
+    },    
     {
       "tag": "definition_Cognizable",
       "patterns": ["define cognizable", "what is meant by cognizable", "what does cognizable mean?", "what does it mean to be cognizable?"],
