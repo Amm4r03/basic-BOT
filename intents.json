@@ -124,6 +124,11 @@
       "responses": ["Section 153-B(1) of IPC \n- Punishment: 3 years & fine or both \n- Cognizable: Yes \n- Bailable: No"]
     },    
     {
+      "tag": "section_153-B(1)-converse",
+      "patterns": ["section 153-B(1)", "153 B(1)", "153B(1)", "153 B 1", "153 b1", "153 B1"],
+      "responses": ["section 153-B(1) of IPC\nOffense: imputation assertions prejudicial to national integration\nPunishment: 3 years & fine or both\nCognizable: Yes\nBailable: No"]
+    },    
+    {
       "tag": "section_153-B(2)",
       "patterns": ["Imputations assertion prejudicial to national integration committed at a religious place or gathering", "What is provision for imputations assertion prejudicial to national integration committed at a religious place or gathering?", "What is the punishment for imputations assertion prejudicial to national integration committed at a religious place or gathering?", "Is imputations assertion prejudicial to national integration committed at a religious place or gathering cognizable?", "Is imputations assertion prejudicial to national integration committed at a religious place or gathering bailable?"],
       "responses": ["Section 153-B(2) of IPC \n- Punishment: 5 years & also fine \n- Cognizable: Yes \n- Bailable: No"]
