@@ -82,7 +82,12 @@
       "tag": "section_171-HIPC",
       "patterns": ["punishment for illegal payment in election","illegal payment in election","Illegal payment in connection with election", "What is provision for illegal payment in connection with election?", "What is the punishment for illegal payment in connection with election?", "Is illegal payment in connection with election cognizable?", "Is illegal payment in connection with election bailable?"],
       "responses": ["Section 171-HIPC of IPC\nPunishment: Rs.500/-\nCognizable: No\nBailable: Yes"]
-    },    
+    },
+    {
+      "tag": "section_171-H-converse",
+      "patterns": ["section 171 H", "171 h", "171H"],
+      "responses": ["section 171-H of IPC\nOffense: illegal payment in connection with election\nPunishment: Rs.500/-\nCognizable: No\nBailable: Yes"]
+    },        
     {
       "tag": "section_171-I",
       "patterns": ["election accounts failure","failure in keeping election accounts","failure to keep election Accounts", "What is provision for failure to keep election Accounts?", "What is the punishment for failure to keep election Accounts?", "Is failure to keep election Accounts cognizable?", "Is failure to keep election Accounts bailable?"],
