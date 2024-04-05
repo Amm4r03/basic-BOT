@@ -64,6 +64,11 @@
       "responses": ["Section 171-F of IPC\nPunishment: 1 year or fine or both\nCognizable: Yes\nBailable: Yes"]
     },
     {
+      "tag": "section_171-F-converse",
+      "patterns": ["section 171 F", "171 f", "171F"],
+      "responses": ["section 171-F of IPC\nOffense: using undue influence or personation at an election\nPunishment: 1 year or fine or both\nCognizable: Yes\nBailable: Yes"]
+    },    
+    {
       "tag": "section_171-G",
       "patterns": ["false statement in election","False statement in connection with election", "What is provision for false statement in connection with election?", "What is the punishment for false statement in connection with election?", "Is false statement in connection with election cognizable?", "Is false statement in connection with election bailable?", "what is the legal provision if a person gives a false statement in election?"],
       "responses": ["Section 171-G of IPC\nPunishment: Fine\nCognizable: No\nBailable: Yes"]
