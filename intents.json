@@ -94,6 +94,11 @@
       "responses": ["Section 171-I of IPC\nPunishment: -do-\nCognizable: No\nBailable: Yes"]
     },    
     {
+      "tag": "section_171-I-converse",
+      "patterns": ["section 171 I", "171 i", "171I"],
+      "responses": ["section 171-I of IPC\nOffense: failure to keep election accounts\nPunishment: -do-\nCognizable: No\nBailable: Yes"]
+    },    
+    {
       "tag": "section_153-A(1)",
       "patterns": ["social groups enmity", "enmity between social groups","promoting enmity between social groups","promoting enmity between different social groups leading to disharmony", "What is provision for promoting enmity between different social groups leading to disharmony?", "What is the punishment for promoting enmity between different social groups leading to disharmony?", "Is promoting enmity between different social groups leading to disharmony cognizable?", "Is promoting enmity between different social groups leading to disharmony bailable?"],
       "responses": ["Section 153-A(1) of IPC \n- Punishment: 3 Years or fine or both \n- Cognizable: Yes \n- Bailable: No"]
