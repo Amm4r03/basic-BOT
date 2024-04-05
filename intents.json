@@ -162,7 +162,12 @@
       "tag": "section_125_RPA",
       "patterns": ["Promoting enmity between classes in c/w election", "What is provision for promoting enmity between classes in c/w election?", "What is the punishment for promoting enmity between classes in c/w election?", "Is promoting enmity between classes in c/w election cognizable?", "Is promoting enmity between classes in c/w election bailable?"],
       "responses": ["Section 125-RPA \n- Punishment: 3 years or fine or both \n- Cognizable: Yes \n- Bailable: No"]
-    },          
+    },       
+    {
+      "tag": "section_125-RPA-converse",
+      "patterns": ["section 125 RPA", "125 RPA", "125RPA"],
+      "responses": ["section 125-RPA\nOffense: promoting enmity between classes in connection with election\nPunishment: 3 years or fine or both\nCognizable: Yes\nBailable: No"]
+    },       
     {
       "tag": "section_126_RPA",
       "patterns": ["Holding of public meeting on the preceding day the polling day", "What is provision for holding of public meeting on the preceding day the polling day?", "What is the punishment for holding of public meeting on the preceding day the polling day?", "Is holding of public meeting on the preceding day the polling day cognizable?", "Is holding of public meeting on the preceding day the polling day bailable?"],
