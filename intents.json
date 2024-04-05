@@ -53,6 +53,11 @@
       "responses": ["Section 171-E of IPC\nPunishment: 1 year or fine or both\nCognizable: Yes\nBailable: No"]
     },
     {
+      "tag": "section_171-E-converse",
+      "patterns": ["section 171 E", "171 e", "171E"],
+      "responses": ["section 171-E of IPC\nOffense: giving and accepting bribe\nPunishment: 1 year or fine or both\nCognizable: Yes\nBailable: No"]
+    },    
+    {
       "tag": "section_171-F",
       "patterns": ["undue influence at an election", "Using undue influence or Personation at an election", "What is provision for using undue influence or Personation at an election?", "What is the punishment for using undue influence or Personation at an election?", "Is using undue influence or Personation at an election cognizable?", "Is using undue influence or Personation at an election bailable?"
       ],
