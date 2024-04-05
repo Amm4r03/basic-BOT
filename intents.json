@@ -342,15 +342,31 @@
     },
     {
       "tag": "border_checkpoints",
-      "patterns": [
-        "Border checkpoints",
-        "Border crossings",
-        "Border locations"
-      ],
-      "responses": [
-        "1. Aya Nagar Picket, Aya Nagar Village, Delhi-Gurugram Road\n- Motorable\n- Manned\n- PS F.P. Beri, South District\n- Inspr. Mukesh Kumar Baliyan, SHO/Fatehpur Beri, Contact: 8750870826\n\nOutgoing Border: P.S. DLF Phase-I, District - Gurugram, Inspr. Sunil Kumar, SHO, Contact: 9999981827\nIncoming Border: PS DLF Phase-III, Inspr. Dinkar Yadav, SHO, Contact: 9205892152 \n2. Jheel Khurd, Dera Goan, Delhi-Faridabad Border\n- Motorable\n- Manned\n- PS F.P. Beri, South District\n- Police Post-Manger, PS Dhoj, Inspr. Satyawan, SHO, Contact: 9582200157, District - Faridabad\n- SI Pardeep Kumar, Contact: 9582200180 \n3. Gawal Pahari, Mandi Village, Delhi-Gurugram Border\n- Motorable\n- Manned\n- PS F.P. Beri, South District\n- Police Post- Gawal Phari, PS DLF Phase-I, Gurugram, SI Pardeep Singh, Contact: 99205892151, District - Gurugram"
-      ]
+      "patterns": ["Border checkpoints", "Border crossings", "Border locations"],
+      "responses": ["1. Aya Nagar Picket, Aya Nagar Village, Delhi-Gurugram Road\n- Motorable\n- Manned\n- PS F.P. Beri, South District\n- Inspr. Mukesh Kumar Baliyan, SHO/Fatehpur Beri, Contact: 8750870826\n\nOutgoing Border: P.S. DLF Phase-I, District - Gurugram, Inspr. Sunil Kumar, SHO, Contact: 9999981827\nIncoming Border: PS DLF Phase-III, Inspr. Dinkar Yadav, SHO, Contact: 9205892152 \n2. Jheel Khurd, Dera Goan, Delhi-Faridabad Border\n- Motorable\n- Manned\n- PS F.P. Beri, South District\n- Police Post-Manger, PS Dhoj, Inspr. Satyawan, SHO, Contact: 9582200157, District - Faridabad\n- SI Pardeep Kumar, Contact: 9582200180 \n3. Gawal Pahari, Mandi Village, Delhi-Gurugram Border\n- Motorable\n- Manned\n- PS F.P. Beri, South District\n- Police Post- Gawal Phari, PS DLF Phase-I, Gurugram, SI Pardeep Singh, Contact: 99205892151, District - Gurugram"]
     },
+    {
+      "tag": "aya_nagar_picket",
+      "patterns": ["Aya Nagar Picket", "Aya Nagar Village", "Delhi-Gurugram Road"],
+      "responses": ["Motorable, Manned, PS F.P. Beri, South District\nInspr. Mukesh Kumar Baliyan, SHO/Fatehpur Beri\nContact: 8750870826, Outgoing Border: P.S. DLF Phase-I, District - Gurugram\nInspr. Sunil Kumar, SHO\nContact: 9999981827, Incoming Border: PS DLF Phase-III, Gurugram\nInspr. Dinkar Yadav, SHO\nContact: 9205892152"]
+    },
+    {
+      "tag": "jheel_khurd_dera_goan",
+      "patterns": ["Jheel Khurd, Dera Goan", "Delhi-Faridabad Border", "jheel khurd"],
+      "responses": ["Motorable, Manned, PS F.P. Beri, South District\nPolice Post-Manger, PS Dhoj, District - Faridabad\nInspr. Satyawan, SHO\nContact: 9582200157, SI Pardeep Kumar\nContact: 9582200180"]
+    },
+    {
+      "tag": "gawal_pahari_mandi_village",
+      "patterns": ["Gawal Pahari, Mandi Village", "Delhi-Gurugram Border"],
+      "responses": ["Motorable, Manned, PS F.P. Beri, South District\nPolice Post- Gawal Phari, PS DLF Phase-I, Gurugram\nSI Pardeep Singh\nContact: 99205892151"]
+    },
+    {
+      "tag": "manned_border_checkpoints",
+      "patterns": ["Manned Border Checkpoints"],
+      "responses": [
+        "Manned Border Checkpoints:\n1. Aya Nagar Picket, Aya Nagar Village, Delhi-Gurugram Road\n2. Jheel Khurd, Dera Goan, Delhi-Faridabad Border\n3. Gawal Pahari, Mandi Village, Delhi-Gurugram Border"
+      ]
+    },    
     {
       "tag": "election_commission_do_1",
       "patterns": ["ongoing program","ongoing programmes","On-going programmes", "Continuation of ongoing programmes", "Can ongoing programmes continue during elections?"],
