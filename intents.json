@@ -104,6 +104,11 @@
       "responses": ["Section 153-A(1) of IPC \n- Punishment: 3 Years or fine or both \n- Cognizable: Yes \n- Bailable: No"]
     },    
     {
+      "tag": "section_153-A(1)-converse",
+      "patterns": ["section 153-A(1)", "153 A(1)", "153A(1)"],
+      "responses": ["section 153-A(1) of IPC\nOffense: promoting enmity between different social groups leading to disharmony\nPunishment: 3 Years or fine or both\nCognizable: Yes\nBailable: No"]
+    },    
+    {
       "tag": "section_153-A(2)",
       "patterns": ["religious gathering enmity","religious place enmity","enmity between social groups religious place","Promoting enmity between social group leading to disharmony in religious place or religious gathering", "What is provision for promoting enmity between social group leading to disharmony in religious place or religious gathering?", "What is the punishment for promoting enmity between social group leading to disharmony in religious place or religious gathering?", "Is promoting enmity between social group leading to disharmony in religious place or religious gathering cognizable?", "Is promoting enmity between social group leading to disharmony in religious place or religious gathering bailable?"],
       "responses": ["Section 153-A(2) of IPC \n- Punishment: 5 years and fine also \n- Cognizable: Yes \n- Bailable: No"]
