@@ -373,6 +373,27 @@
       "responses": [
         "Motorable Border Checkpoints:\n1. Aya Nagar Picket, Aya Nagar Village, Delhi-Gurugram Road\n2. Jheel Khurd, Dera Goan, Delhi-Faridabad Border\n3. Gawal Pahari, Mandi Village, Delhi-Gurugram Border"
       ]
+    }, 
+    {
+      "tag": "Aya_Nagar_Picket_contact_details",
+      "patterns": ["Aya Nagar Picket contact details", "aya nagar contact details"],
+      "responses": [
+        "Contact Details for Aya Nagar Picket:\n- Inspr. Mukesh Kumar Baliyan, SHO/Fatehpur Beri\n  Contact: 8750870826\n- Inspr. Sunil Kumar, SHO\n  Contact: 9999981827\n- Inspr. Dinkar Yadav, SHO\n  Contact: 9205892152"
+      ]
+    },       
+    {
+      "tag": "Jheel_Khurd_Picket_contact_details",
+      "patterns": ["Jheel Khurd, Dera Goan contact details", "jheel khurd contact details"],
+      "responses": [
+        "Contact Details for Jheel Khurd, Dera Goan:\n- Inspr. Satyawan, SHO\n  Contact: 9582200157\n- SI Pardeep Kumar\n  Contact: 9582200180"
+      ]
+    },    
+    {
+      "tag": "Gawal_Pahari_Picket_contact_details",
+      "patterns": ["Gawal Pahari, Mandi Village contact details", "gawal pahari contact details"],
+      "responses": [
+        "Contact Details for Gawal Pahari, Mandi Village:\n- SI Pardeep Singh\n  Contact: 99205892151"
+      ]
     },    
     {
       "tag": "election_commission_do_1",
