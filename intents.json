@@ -134,6 +134,11 @@
       "responses": ["Section 153-B(2) of IPC \n- Punishment: 5 years & also fine \n- Cognizable: Yes \n- Bailable: No"]
     },
     {
+      "tag": "section_153-B(2)-converse",
+      "patterns": ["section 153-B(2)", "153 B(2)", "153B(2)", "153 b 2", "153 B2"],
+      "responses": ["section 153-B(2) of IPC\nOffense: imputations assertion prejudicial to national integration committed at a religious place or gathering\nPunishment: 5 years & also fine\nCognizable: Yes\nBailable: No"]
+    },    
+    {
       "tag": "section_31_RPA",
       "patterns": ["making false declaration","Making false declaration", "What is provision for making false declaration?", "What is the punishment for making false declaration?", "Is making false declaration cognizable?", "Is making false declaration bailable?"],
       "responses": ["Section 31 RPA \n- Punishment: One year or fine or both \n- Cognizable: No \n- Bailable: Yes"]
