@@ -766,7 +766,529 @@
       "responses": [
         "Inspr. Sh. Arun Kumar Verma\n- Place of Posting: SHO/Cyber\n- Call Sign: Siera-36\n- Phone No.: 9871698330"
       ]
-    },            
+    },
+    {
+      "tag": "ACP_Hauz_Khas",
+      "patterns": [
+        "Contact details for ACP Hauz Khas",
+        "Who is the ACP of Hauz Khas?",
+        "ACP Hauz Khas contact information"
+      ],
+      "responses": [
+        "Sh. Harish Chander\n- Place of Posting: ACP/Hauz Khas\n- Call Sign: Siera-4\n- Phone No.: 8750870804, 9868858722\n- Email: acp-hauzkhas-dl@nic"
+      ]
+    },
+    {
+      "tag": "ACP_Mehrauli",
+      "patterns": [
+        "Contact details for ACP Mehrauli",
+        "Who is the ACP of Mehrauli?",
+        "ACP Mehrauli contact information"
+      ],
+      "responses": [
+        "Sh. Vijay Kumar\n- Place of Posting: ACP/Mehrauli\n- Call Sign: Siera-5\n- Phone No.: 26644203, 8750870805, 9818270338\n- Email: acp-mehrauli-dl.nic.in"
+      ]
+    },
+    {
+      "tag": "ACP_Mehrauli",
+      "patterns": [
+        "Contact details for ACP Mehrauli",
+        "Who is the ACP of Mehrauli?",
+        "ACP Mehrauli contact information"
+      ],
+      "responses": [
+        "Sh. Vijay Kumar\n- Place of Posting: ACP/Mehrauli\n- Call Sign: Siera-5\n- Phone No.: 26644203, 8750870805, 9818270338\n- Email: acp-mehrauli-dl.nic.in"
+      ]
+    },
+    {
+      "tag": "ACP_CR_Park",
+      "patterns": [
+        "Contact details for ACP C.R. Park",
+        "Who is the ACP of C.R. Park?",
+        "ACP C.R. Park contact information"
+      ],
+      "responses": [
+        "Ms. Neeraj Tokas\n- Place of Posting: ACP/C.R. Park\n- Call Sign: Siera-7\n- Phone No.: 8750870807, 9811600811"
+      ]
+    },
+    {
+      "tag": "ACP_Sangam_Vihar",
+      "patterns": [
+        "Contact details for ACP Sangam Vihar",
+        "Who is the ACP of Sangam Vihar?",
+        "ACP Sangam Vihar contact information"
+      ],
+      "responses": [
+        "Ms. K.M. Priyanka, IPS\n- Place of Posting: ACP/Sangam Vihar\n- Call Sign: Siera-8\n- Phone No.: 26041471, 8750870808, 9742533911\n- Email: acp-sangamvhr-dl@delhipolice.gov.in"
+      ]
+    },
+    {
+      "tag": "ACP_HQ",
+      "patterns": [
+        "Contact details for ACP HQ",
+        "Who is the ACP of HQ?",
+        "ACP HQ contact information"
+      ],
+      "responses": [
+        "Sh. Abhinendra Jain\n- Place of Posting: ACP/HQ\n- Call Sign: Siera-09\n- Phone No.: 9911122383\n- Designation: Nodal Officer for Election Cell/South District"
+      ]
+    },
+    {
+      "tag": "ACP_Ops_Cell_SD",
+      "patterns": [
+        "Contact details for ACP Ops Cell SD",
+        "Who is the ACP of Ops Cell SD?",
+        "ACP Ops Cell SD contact information"
+      ],
+      "responses": [
+        "Sh. Rajesh Kumar\n- Place of Posting: ACP/Ops Cell/SD\n- Call Sign: Siera-10\n- Phone No.: 8448301558"
+      ]
+    },
+    {
+      "tag": "ACP_PG_Cell_DIU_SD",
+      "patterns": [
+        "Contact details for ACP P.G. Cell SD",
+        "Who is the ACP of P.G. Cell SD?",
+        "ACP P.G. Cell SD contact information"
+      ],
+      "responses": [
+        "Sh. Amreek Raj Birdi\n- Place of Posting: ACP/P.G. Cell/SD & ACP/DIU (SD)\n- Call Sign: Siera-12 & 14\n- Phone No.: 9868167557\n- Designation: Nodal Officer for Single Window Permission"
+      ]
+    },
+    {
+      "tag": "Inspector_Shiv_Darshan_SHO_Hauz_Khas",
+      "patterns": [
+        "Contact details for Inspector Shiv Darshan SHO Hauz Khas",
+        "Who is the SHO of Hauz Khas?"
+      ],
+      "responses": [
+        "Inspector Shiv Darshan\n- Place of Posting: SHO/Hauz Khas\n- Call Sign: Siera-21\n- Mobile No.: 8750870821\n- Landline: 26510077, 26867878"
+      ]
+    },
+    {
+      "tag": "Inspector_Bharat_Lal_ATO_Hauz_Khas",
+      "patterns": [
+        "Contact details for Inspector Bharat Lal ATO Hauz Khas",
+        "Who is the ATO of Hauz Khas?"
+      ],
+      "responses": [
+        "Inspector Bharat Lal\n- Place of Posting: ATO/Hauz Khas\n- Call Sign: Siera-21A\n- Mobile No.: 8750044787"
+      ]
+    },
+    {
+      "tag": "Inspector_Pushpendra_Kumar_Inv_Hauz_Khas",
+      "patterns": [
+        "Contact details for Inspector Pushpendra Kumar Investigation Hauz Khas",
+        "Who is the Investigating Officer of Hauz Khas?"
+      ],
+      "responses": [
+        "Inspector Pushpendra Kumar\n- Place of Posting: Inspr. (Inv.) Hauz Khas\n- Call Sign: Siera-21B\n- Mobile No.: 9654821161"
+      ]
+    },
+    {
+      "tag": "Inspector_Deepak_Kumar_SHO_Malviya_Nagar",
+      "patterns": [
+        "Contact details for Inspector Deepak Kumar SHO Malviya Nagar",
+        "Who is the SHO of Malviya Nagar?"
+      ],
+      "responses": [
+        "Inspector Deepak Kumar\n- Place of Posting: SHO/Malviya Nagar\n- Call Sign: Siera-22\n- Mobile No.: 8750870822\n- Landline: 26691861, 26691863"
+      ]
+    },
+    {
+      "tag": "Inspector_Rajeev_ATO_Malviya_Nagar",
+      "patterns": [
+        "Contact details for Inspector Rajeev ATO Malviya Nagar",
+        "Who is the ATO of Malviya Nagar?"
+      ],
+      "responses": [
+        "Inspector Rajeev\n- Place of Posting: ATO/Malviya Nagar\n- Call Sign: Siera-22A\n- Mobile No.: 9718275001"
+      ]
+    },
+    {
+      "tag": "Inspector_Subhash_Chand_Inv_Malviya_Nagar",
+      "patterns": [
+        "Contact details for Inspector Subhash Chand Investigation Malviya Nagar",
+        "Who is the Investigating Officer of Malviya Nagar?"
+      ],
+      "responses": [
+        "Inspector Subhash Chand\n- Place of Posting: Inspr. (Inv.) Malviya Nagar\n- Call Sign: Siera-22B"
+      ]
+    },
+    {
+      "tag": "Inspector_Subodh_Kumar_SHO_Saket",
+      "patterns": [
+        "Contact details for Inspector Subodh Kumar SHO Saket",
+        "Who is the SHO of Saket?"
+      ],
+      "responses": [
+        "Inspector Subodh Kumar\n- Place of Posting: SHO/Saket\n- Call Sign: Siera-23\n- Mobile No.: 8750870823\n- Landline: 29561300, 29562300"
+      ]
+    },
+    {
+      "tag": "Inspector_Hansraj_Swami_Inv_Saket",
+      "patterns": [
+        "Contact details for Inspector Hansraj Swami Investigation Saket",
+        "Who is the Investigating Officer of Saket?"
+      ],
+      "responses": [
+        "Inspector Hansraj Swami\n- Place of Posting: Inspr. (Inv.) Saket\n- Call Sign: Siera-23B\n- Note: Not reported"
+      ]
+    },
+    {
+      "tag": "Inspector_Akhilesh_Bajpai_SHO_Mehrauli",
+      "patterns": [
+        "Contact details for Inspector Akhilesh Bajpai SHO Mehrauli",
+        "Who is the SHO of Mehrauli?"
+      ],
+      "responses": [
+        "Inspector Akhilesh Bajpai\n- Place of Posting: SHO/Mehrauli\n- Call Sign: Siera-24\n- Mobile No.: 8750870824\n- Landline: 26645050, 26643200"
+      ]
+    },
+    {
+      "tag": "Inspector_Anurag_Singh_ATO_Mehrauli",
+      "patterns": [
+        "Contact details for Inspector Anurag Singh ATO Mehrauli",
+        "Who is the ATO of Mehrauli?"
+      ],
+      "responses": [
+        "Inspector Anurag Singh\n- Place of Posting: ATO/Mehrauli\n- Call Sign: Siera-24A\n- Mobile No.: 9013492914"
+      ]
+    },
+    {
+      "tag": "Inspector_Binod_Kumar_Inv_Mehrauli",
+      "patterns": [
+        "Contact details for Inspector Binod Kumar Investigation Mehrauli",
+        "Who is the Investigating Officer of Mehrauli?"
+      ],
+      "responses": [
+        "Inspector Binod Kumar\n- Place of Posting: Inspr. (Inv.) Mehrauli\n- Call Sign: Siera-24B\n- Note: Not reported"
+      ]
+    },
+    {
+      "tag": "Inspector_Sanjay_Neolia_SHO_Maidan_Garhi",
+      "patterns": [
+        "Contact details for Inspector Sanjay Neolia SHO Maidan Garhi",
+        "Who is the SHO of Maidan Garhi?"
+      ],
+      "responses": [
+        "Inspector Sanjay Neolia\n- Place of Posting: SHO/Maidan Garhi\n- Call Sign: Siera-25\n- Mobile No.: 8750870825\n- Landline: 26653614, 26653615"
+      ]
+    },
+    {
+      "tag": "Inspector_Vacant_Inv_Maidan_Garhi",
+      "patterns": [
+        "Contact details for Investigating Officer of Maidan Garhi",
+        "Who is the Investigating Officer of Maidan Garhi?"
+      ],
+      "responses": [
+        "Vacant\n- Place of Posting: Inspr. (Inv.) Maidan Garhi\n- Call Sign: Siera-25B\n- Mobile No.: 9911820101"
+      ]
+    },
+    {
+      "tag": "Inspector_Mukesh_Balyan_SHO_Fatehpur_Beri",
+      "patterns": [
+        "Contact details for Inspector Mukesh Balyan SHO Fatehpur Beri",
+        "Who is the SHO of Fatehpur Beri?"
+      ],
+      "responses": [
+        "Inspector Mukesh Balyan\n- Place of Posting: SHO/Fatehpur Beri\n- Call Sign: Siera-26\n- Mobile No.: 8750870826\n- Landline: 26659611, 26659511"
+      ]
+    },
+    {
+      "tag": "Inspector_Aditiya_ATO_Fatehpur_Beri",
+      "patterns": [
+        "Contact details for Inspector Aditiya ATO Fatehpur Beri",
+        "Who is the ATO of Fatehpur Beri?"
+      ],
+      "responses": [
+        "Inspector Aditiya\n- Place of Posting: ATO/Fatehpur Beri\n- Call Sign: Siera-26A\n- Mobile No.: 9891719801"
+      ]
+    },
+    {
+      "tag": "Inspector_Rishi_Kesh_Inv_Fatehpur_Beri",
+      "patterns": [
+        "Contact details for Inspector Rishi Kesh Investigating Officer Fatehpur Beri",
+        "Who is the Investigating Officer of Fatehpur Beri?"
+      ],
+      "responses": [
+        "Inspector Rishi Kesh\n- Place of Posting: Inspr. (Inv.) Fatehpur Beri\n- Mobile No.: Not Reported"
+      ]
+    },
+    {
+      "tag": "Inspector_Chander_Shekhar_SHO_Defence_Colony",
+      "patterns": [
+        "Contact details for Inspector Chander Shekhar SHO Defence Colony",
+        "Who is the SHO of Defence Colony?"
+      ],
+      "responses": [
+        "Inspector Chander Shekhar\n- Place of Posting: SHO/Defence Colony\n- Call Sign: Siera-27\n- Mobile No.: 8750870827, 9868902244\n- Landline: 26253402"
+      ]
+    },
+    {
+      "tag": "Inspector_Harpal_Singh_ATO_Defence_Colony",
+      "patterns": [
+        "Contact details for Inspector Harpal Singh ATO Defence Colony",
+        "Who is the ATO of Defence Colony?"
+      ],
+      "responses": [
+        "Inspector Harpal Singh\n- Place of Posting: ATO/Defence Colony\n- Call Sign: Siera-27A\n- Mobile No.: Not Reported"
+      ]
+    },
+    {
+      "tag": "Inspector_Devendra_Kumar_Inv_Defence_Colony",
+      "patterns": [
+        "Contact details for Inspector Devendra Kumar Investigating Officer Defence Colony",
+        "Who is the Investigating Officer of Defence Colony?"
+      ],
+      "responses": [
+        "Inspector Devendra Kumar\n- Place of Posting: Inspr. (Inv.) Defence Colony\n- Mobile No.: Not Reported"
+      ]
+    },
+    {
+      "tag": "Inspector_Parveen_Kumar_SHO_Kotlamubarak_Pur",
+      "patterns": [
+        "Contact details for Inspector Parveen Kumar SHO Kotlamubarak Pur",
+        "Who is the SHO of Kotlamubarak Pur?"
+      ],
+      "responses": [
+        "Inspector Parveen Kumar\n- Place of Posting: SHO/Kotlamubarak Pur\n- Call Sign: Siera-28\n- Mobile No.: 8750870828, 9810779471\n- Landline: 24624825, 24620106"
+      ]
+    },
+    {
+      "tag": "Inspector_Narendra_Singh_ATO_Kotlamubarak_Pur",
+      "patterns": [
+        "Contact details for Inspector Narendra Singh ATO Kotlamubarak Pur",
+        "Who is the ATO of Kotlamubarak Pur?"
+      ],
+      "responses": [
+        "Inspector Narendra Singh\n- Place of Posting: ATO/Kotlamubarak Pur\n- Call Sign: Siera-28A\n- Mobile No.: 9999553628"
+      ]
+    },
+    {
+      "tag": "Inspector_Lakhmi_Chand_Inv_Kotlamubarak_Pur",
+      "patterns": [
+        "Contact details for Inspector Lakhmi Chand Investigating Officer Kotlamubarak Pur",
+        "Who is the Investigating Officer of Kotlamubarak Pur?"
+      ],
+      "responses": [
+        "Inspector Lakhmi Chand\n- Place of Posting: Inspr. (Inv.) Kotlamubarak Pur\n- Mobile No.: 9968561231"
+      ]
+    },
+    {
+      "tag": "Inspector_Sanjeev_Mandal_SHO_Lodhi_Colony",
+      "patterns": [
+        "Contact details for Inspector Sanjeev Mandal SHO Lodhi Colony",
+        "Who is the SHO of Lodhi Colony?"
+      ],
+      "responses": [
+        "Inspector Sanjeev Mandal\n- Place of Posting: SHO/Lodhi Colony\n- Call Sign: Siera-29\n- Mobile No.: 8750870829\n- Landline: 24620283, 24611753"
+      ]
+    },                                            
+    {
+      "tag": "Inspector_Sumit_Kumar_ATO_Lodhi_Colony",
+      "patterns": [
+        "Contact details for Inspector Sumit Kumar ATO Lodhi Colony",
+        "Who is the ATO of Lodhi Colony?"
+      ],
+      "responses": [
+        "Inspector Sumit Kumar\n- Place of Posting: ATO/Lodhi Colony\n- Call Sign: Siera-29A"
+      ]
+    },
+    {
+      "tag": "Inspector_Raj_Kumar_Inv_Lodhi_Colony",
+      "patterns": [
+        "Contact details for Inspector Raj Kumar Investigating Officer Lodhi Colony",
+        "Who is the Investigating Officer of Lodhi Colony?"
+      ],
+      "responses": [
+        "Inspector Raj Kumar\n- Place of Posting: Inspr. (Inv.) Lodhi Colony\n- Call Sign: Siera-29B\n- Mobile No.: 9868101023"
+      ]
+    },
+    {
+      "tag": "Inspector_Sarvesh_ATO_CR_Park",
+      "patterns": [
+        "Contact details for Inspector Sarvesh ATO CR Park",
+        "Who is the ATO of CR Park?"
+      ],
+      "responses": [
+        "Inspector Sarvesh\n- Place of Posting: ATO/CR Park\n- Call Sign: Siera-30A"
+      ]
+    },
+    {
+      "tag": "Inspector_Vacant_Inv_CR_Park",
+      "patterns": [
+        "Contact details for Inspector Vacant Investigating Officer CR Park",
+        "Who is the Investigating Officer of CR Park?"
+      ],
+      "responses": [
+        "Inspector Vacant\n- Place of Posting: Inspr. (Inv.) CR Park\n- Call Sign: Siera-30B"
+      ]
+    },
+    {
+      "tag": "Inspector_Bhanu_Partap_SHO_Greater_Kailash",
+      "patterns": [
+        "Contact details for Inspector Bhanu Partap SHO Greater Kailash",
+        "Who is the SHO of Greater Kailash?"
+      ],
+      "responses": [
+        "Inspector Bhanu Partap\n- Place of Posting: SHO/Greater Kailash\n- Call Sign: Siera-31\n- Mobile No.: 8750870831\n- Landline: 26241076, 26241077"
+      ]
+    },
+    {
+      "tag": "Inspector_Madan_Mohan_ATO_Greater_Kailash",
+      "patterns": [
+        "Contact details for Inspector Madan Mohan ATO Greater Kailash",
+        "Who is the ATO of Greater Kailash?",
+        "inspector madan mohan",
+        "madan mohan inspector",
+        "inspector madan mohan greater kailash",
+        "show me contact details for inspector madan mohan"
+      ],
+      "responses": [
+        "Inspector Madan Mohan\n- Place of Posting: ATO/Greater Kailash\n- Call Sign: Siera-31A"
+      ]
+    },
+    {
+      "tag": "Inspector_Jitender_Singh_Inv_Greater_Kailash",
+      "patterns": [
+        "Contact details for Inspector Jitender Singh Investigating Officer Greater Kailash",
+        "Who is the Investigating Officer of Greater Kailash?",
+        "greater kailash investigating officer",
+        "investigating officer greater kailash",
+        "who is the investigating officer of greater kailash?"
+      ],
+      "responses": [
+        "Inspector Jitender Singh\n- Place of Posting: Inspr. (Inv.) Greater Kailash\n- Call Sign: Siera-31B\n- Mobile No.: 9968001938"
+      ]
+    },                            
+    {
+      "tag": "Inspector_Sanjeev_Kumar_ATO_Maidan_Garhi",
+      "patterns": [
+        "Contact details for Inspector Sanjeev Kumar ATO Maidan Garhi",
+        "Who is the ATO of Maidan Garhi?"
+      ],
+      "responses": [
+        "Inspector Sanjeev Kumar\n- Place of Posting: ATO/Maidan Garhi\n- Call Sign: Siera-25A\n- Note: Not reported"
+      ]
+    },
+    {
+      "tag": "Inspector_Ram_Pal_SHO_Ambedkar_Nagar",
+      "patterns": [
+        "Contact details for Inspector Ram Pal SHO Ambedkar Nagar",
+        "Who is the SHO of Ambedkar Nagar?"
+      ],
+      "responses": [
+        "Inspector Ram Pal\n- Place of Posting: SHO/Ambedkar Nagar\n- Call Sign: Siera-32\n- Mobile No.: 8750870832\n- Landline: 29051917, 29052304"
+      ]
+    },
+    {
+      "tag": "Inspector_Madhurendra_Kumar_ATO_Ambedkar_Nagar",
+      "patterns": [
+        "Contact details for Inspector Madhurendra Kumar ATO Ambedkar Nagar",
+        "Who is the ATO of Ambedkar Nagar?"
+      ],
+      "responses": [
+        "Inspector Madhurendra Kumar\n- Place of Posting: ATO/Ambedkar Nagar\n- Call Sign: Siera-32A"
+      ]
+    },
+    {
+      "tag": "Inspector_Muneesh_Kumar_Inv_Ambedkar_Nagar",
+      "patterns": [
+        "Contact details for Inspector Muneesh Kumar Investigating Officer Ambedkar Nagar",
+        "Who is the Investigating Officer of Ambedkar Nagar?"
+      ],
+      "responses": [
+        "Inspector Muneesh Kumar\n- Place of Posting: Inspr. (Inv.) Ambedkar Nagar\n- Call Sign: Siera-32B\n- Mobile No.: 7982715335"
+      ]
+    },
+    {
+      "tag": "Inspector_Saroj_Tiwari_SHO_Sangam_Vihar",
+      "patterns": [
+        "Contact details for Inspector Saroj Tiwari SHO Sangam Vihar",
+        "Who is the SHO of Sangam Vihar?",
+        "saroj tiwari sangam vihar",
+        "conact details for saroj tiwari",
+        "inspector saroj tiwari",
+        "inspector saroj tiwari details"
+      ],
+      "responses": [
+        "Inspector Saroj Tiwari\n- Place of Posting: SHO/Sangam Vihar\n- Call Sign: Siera-33\n- Mobile No.: 8750870833\n- Landline: 26042188"
+      ]
+    }, 
+    {
+      "tag": "Inspector_Prakash_Chand_ATO_Sangam_Vihar",
+      "patterns": [
+        "Contact details for Inspector Prakash Chand ATO Sangam Vihar",
+        "Who is the ATO of Sangam Vihar?"
+      ],
+      "responses": [
+        "Inspector Prakash Chand\n- Place of Posting: ATO/Sangam Vihar\n- Call Sign: Siera-33A"
+      ]
+    },
+    {
+      "tag": "Inspector_Suresh_Choudhary_Inv_Sangam_Vihar",
+      "patterns": [
+        "Contact details for Inspector Suresh Choudhary Investigating Officer Sangam Vihar",
+        "Who is the Investigating Officer of Sangam Vihar?"
+      ],
+      "responses": [
+        "Inspector Suresh Choudhary\n- Place of Posting: Inspr. (Inv.) Sangam Vihar\n- Call Sign: Siera-33B\n- Mobile No.: 8750870893"
+      ]
+    },
+    {
+      "tag": "Inspector_Ravinder_Kumar_SHO_Tigri",
+      "patterns": [
+        "Contact details for Inspector Ravinder Kumar SHO Tigri",
+        "Who is the SHO of Tigri?",
+        "sho at tigri",
+        "tigri sho contact details",
+        "show me contact details for sho of tigri"
+      ],
+      "responses": [
+        "Inspector Ravinder Kumar\n- Place of Posting: SHO/Tigri\n- Call Sign: Siera-34\n- Mobile No.: 8750870834\n- Landline: 26041474"
+      ]
+    },              
+    {
+      "tag": "Inspector_Arun_Kumar_Verma_SHO_Cyber",
+      "patterns": [
+        "Contact details for Inspector Arun Kumar Verma SHO Cyber",
+        "Who is the SHO of Cyber?"
+      ],
+      "responses": [
+        "Inspector Sh. Arun Kumar Verma\n- Place of Posting: SHO/Cyber\n- Call Sign: Siera-36\n- Mobile No.: 9871698330"
+      ]
+    },
+    {
+      "tag": "Inspector_Hansa_Ram_PS_Cyber",
+      "patterns": [
+        "Contact details for Inspector Hansa Ram PS Cyber",
+        "Who is the PS Cyber?"
+      ],
+      "responses": [
+        "Inspector Sh. Hansa Ram\n- Place of Posting: PS Cyber\n- Call Sign: Siera-36A\n- Mobile No.: 8368018985"
+      ]
+    },          
+    {
+      "tag": "Inspector_Durgadas_ATO_Tigri",
+      "patterns": [
+        "Contact details for Inspector Durgadas ATO Tigri",
+        "Who is the ATO of Tigri?"
+      ],
+      "responses": [
+        "Inspector Durgadas\n- Place of Posting: ATO/Tigri\n- Call Sign: Siera-34A"
+      ]
+    },
+    {
+      "tag": "Inspector_Rakesh_Kumar_Inv_Neb_Sarai",
+      "patterns": [
+        "Contact details for Inspector Rakesh Kumar Investigating Officer Neb Sarai",
+        "Who is the Investigating Officer of Neb Sarai?"
+      ],
+      "responses": [
+        "Inspector Rakesh Kumar\n- Place of Posting: Inspr. (Inv.) Neb Sarai\n- Call Sign: Siera-35B\n- Mobile No.: 9911682121"
+      ]
+    },                   
     {
       "tag": "List of DPO",
       "patterns": [
