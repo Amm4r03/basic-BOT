@@ -1288,7 +1288,107 @@
       "responses": [
         "Inspector Rakesh Kumar\n- Place of Posting: Inspr. (Inv.) Neb Sarai\n- Call Sign: Siera-35B\n- Mobile No.: 9911682121"
       ]
-    },                   
+    },     
+    {
+      "tag": "MCD PRIMARY SCHOOL, OPP ARYA SAMAJ MANDIR, DARAGG, MEHRAULI",
+      "patterns": ["details for MCD PRIMARY SCHOOL", "show more info for Arya Samaj Mandir", "query for Daragg location"],
+      "responses": ["PC_NAME: SOUTH DELHI-07, AC_NAME: MEHRAULI-45, TOTAL_NUMBER_OF_PS_ON_LOCATION: 10, PS_NUMBERS: [98, 99, 100, 101, 102, 103, 104, 105, 106, 107], POLICE_STATION: MEHRAULI, SUB_DIVISION: MEHRAULI, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: CRITICAL"]
+    },
+    {
+      "tag": "ST.JOHNS SCHOOL WARD NO.1,MEHRAULI",
+      "patterns": ["details for ST.JOHNS SCHOOL", "show more info for Ward No.1", "query for Mehrauli school"],
+      "responses": ["PC_NAME: SOUTH DELHI-07, AC_NAME: MEHRAULI-45, TOTAL_NUMBER_OF_PS_ON_LOCATION: 2, PS_NUMBERS: [108, 109], POLICE_STATION: MEHRAULI, SUB_DIVISION: MEHRAULI, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GOVT.BOYS SR.SECONDARY SCHOOL,NO.2,MAIN BAZAR,MEHRAULI",
+      "patterns": ["details for GOVT.BOYS SR.SECONDARY SCHOOL", "show more info for Main Bazar", "query for Mehrauli secondary school"],
+      "responses": ["PC_NAME: SOUTH DELHI-07, AC_NAME: MEHRAULI-45, TOTAL_NUMBER_OF_PS_ON_LOCATION: 7, PS_NUMBERS: [110, 111, 112, 113, 114, 115, 116], POLICE_STATION: MEHRAULI, SUB_DIVISION: MEHRAULI, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: CRITICAL"]
+    },
+    {
+      "tag": "MCD PRIMARY PRATIBHA SCHOOL (GIRL)4/323 MEHRAULI",
+      "patterns": ["details for MCD PRIMARY PRATIBHA SCHOOL", "show more info for Girl School 4/323", "query for Mehrauli primary school"],
+      "responses": ["PC_NAME: SOUTH DELHI-07, AC_NAME: MEHRAULI-45, TOTAL_NUMBER_OF_PS_ON_LOCATION: 4, PS_NUMBERS: [128, 129, 130, 131], POLICE_STATION: MEHRAULI, SUB_DIVISION: MEHRAULI, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "S.S. M SKOOL, GHITORNI, NEAR GHITORNI METRO STATION,MEHRAULI",
+      "patterns": ["details for S.S. M Skool", "show more info for Ghitorni School", "query for Ghitorni location"],
+      "responses": ["PC_NAME: SOUTH DELHI-07, AC_NAME: MEHRAULI-45, TOTAL_NUMBER_OF_PS_ON_LOCATION: 7, PS_NUMBERS: [132, 133, 134, 135, 136, 137, 138], POLICE_STATION: MEHRAULI, SUB_DIVISION: MEHRAULI, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "SOIL MANAGMENT SOCIETY, GHITORNI",
+      "patterns": ["details for Soil Management Society", "show more info for Ghitorni Society", "query for Soil Management Society"],
+      "responses": ["PC_NAME: SOUTH DELHI-07, AC_NAME: MEHRAULI-45, TOTAL_NUMBER_OF_PS_ON_LOCATION: 5, PS_NUMBERS: [139, 140, 141, 142, 143], POLICE_STATION: MEHRAULI, SUB_DIVISION: MEHRAULI, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "ADARSH NAGAR, GATE OF SECTOR 21, DWARKA",
+      "patterns": ["details for Adarsh Nagar", "show more info for Gate of Sector 21", "query for Dwarka location"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: DWARKA-36, TOTAL_NUMBER_OF_PS_ON_LOCATION: 4, PS_NUMBERS: [39, 40, 41, 42], POLICE_STATION: DWARKA SOUTH, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: TENT, CRITICAL_OR_NORMAL: CRITICAL"]
+    },
+    {
+      "tag": "PRIMARY SCHOOL, NEAR SECTOR 5/12 DWARKA",
+      "patterns": ["details for Primary School", "show more info for Sector 5/12 School", "query for Dwarka primary school"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: DWARKA-36, TOTAL_NUMBER_OF_PS_ON_LOCATION: 7, PS_NUMBERS: [43, 44, 45, 46, 47, 48, 49], POLICE_STATION: DWARKA SOUTH, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GOVT. CO. EDU. SCHOOL, SEC-6, DWARKA",
+      "patterns": ["details for Govt. Co. Edu. School", "show more info for Sector 6 School", "query for Dwarka Sector 6 school"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: DWARKA-36, TOTAL_NUMBER_OF_PS_ON_LOCATION: 8, PS_NUMBERS: [50, 51, 52, 53, 54, 55, 56, 57], POLICE_STATION: DWARKA SOUTH, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GOVT. GIRLS SENIOR SEC. SCHOOL, DWARKA",
+      "patterns": ["details for Govt. Girls Senior Sec. School", "show more info for Girls Senior Sec. School", "query for Dwarka girls school"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: DWARKA-36, TOTAL_NUMBER_OF_PS_ON_LOCATION: 7, PS_NUMBERS: [58, 59, 60, 61, 62, 63, 64], POLICE_STATION: DWARKA SOUTH, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: TENT, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "SARVODAYA KANYA VIDYALAYA, NAJAFGARH",
+      "patterns": ["details for Sarvodaya Kanya Vidyalaya", "show more info for Najafgarh Kanya Vidyalaya", "query for Najafgarh school"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: NAJAFGARH-37, TOTAL_NUMBER_OF_PS_ON_LOCATION: 6, PS_NUMBERS: [141, 142, 143, 144, 145, 146], POLICE_STATION: NAJAFGARH, SUB_DIVISION: NAJAFGARH, BUILDING_OR_TENT: TENT, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GGSSS, KAKROLA, DWARKA",
+      "patterns": ["details for GGSSS Kakrola", "show more info for Kakrola GGSSS", "query for Kakrola location"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: MATIALA-35, TOTAL_NUMBER_OF_PS_ON_LOCATION: 4, PS_NUMBERS: [77, 78, 79, 80], POLICE_STATION: KAKROLA, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GGSSS, MATIYALA",
+      "patterns": ["details for GGSSS Matiyala", "show more info for Matiyala GGSSS", "query for Matiyala location"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: MATIALA-35, TOTAL_NUMBER_OF_PS_ON_LOCATION: 6, PS_NUMBERS: [69, 70, 71, 72, 73, 74], POLICE_STATION: MATIYALA, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "SARVODAYA VIDYALAYA, MANGALPURI",
+      "patterns": ["details for Sarvodaya Vidyalaya", "show more info for Mangalpuri Vidyalaya", "query for Mangalpuri school"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: MUNDKA-38, TOTAL_NUMBER_OF_PS_ON_LOCATION: 7, PS_NUMBERS: [196, 197, 198, 199, 200, 201, 202], POLICE_STATION: MUNDKA, SUB_DIVISION: MUNDKA, BUILDING_OR_TENT: TENT, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "RAJKIYA SARVODYA BAL VIDYALAYA, MOHAN GARDEN",
+      "patterns": ["details for Rajkiya Sarvodya Bal Vidyalaya", "show more info for Mohan Garden Vidyalaya", "query for Mohan Garden school"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: UTTAM NAGAR-32, TOTAL_NUMBER_OF_PS_ON_LOCATION: 5, PS_NUMBERS: [103, 104, 105, 106, 107], POLICE_STATION: MOHAN GARDEN, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "SKV, MOHAN GARDEN",
+      "patterns": ["details for SKV Mohan Garden", "show more info for Mohan Garden SKV", "query for SKV Mohan Garden"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: UTTAM NAGAR-32, TOTAL_NUMBER_OF_PS_ON_LOCATION: 6, PS_NUMBERS: [100, 101, 102, 103, 104, 105], POLICE_STATION: MOHAN GARDEN, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GGSSS, MOHAN GARDEN",
+      "patterns": ["details for GGSSS Mohan Garden", "show more info for Mohan Garden GGSSS", "query for GGSSS Mohan Garden"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: UTTAM NAGAR-32, TOTAL_NUMBER_OF_PS_ON_LOCATION: 8, PS_NUMBERS: [97, 98, 99, 100, 101, 102, 103, 104], POLICE_STATION: MOHAN GARDEN, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GGSSS, BINDAPUR",
+      "patterns": ["details for GGSSS Bindapur", "show more info for Bindapur GGSSS", "query for GGSSS Bindapur"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: DABRI-36, TOTAL_NUMBER_OF_PS_ON_LOCATION: 5, PS_NUMBERS: [49, 50, 51, 52, 53], POLICE_STATION: BINDAPUR, SUB_DIVISION: DWARKA, BUILDING_OR_TENT: BUILDING, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GGSSS, PATEL NAGAR",
+      "patterns": ["details for GGSSS Patel Nagar", "show more info for Patel Nagar GGSSS", "query for GGSSS Patel Nagar"],
+      "responses": ["PC_NAME: SOUTH WEST DELHI-08, AC_NAME: PATEL NAGAR-33, TOTAL_NUMBER_OF_PS_ON_LOCATION: 5, PS_NUMBERS: [109, 110, 111, 112, 113], POLICE_STATION: PATEL NAGAR, SUB_DIVISION: PATEL NAGAR, BUILDING_OR_TENT: TENT, CRITICAL_OR_NORMAL: NORMAL"]
+    },
+    {
+      "tag": "GSKV, VIKASPURI",
+      "patterns": ["details for GSKV Vikaspuri", "show more info for Vikaspuri GSKV", "query for Vikaspuri GSKV"],
+      "responses": ["PC_NAME: WEST DELHI-09, AC_NAME: VIKASPURI-37, TOTAL_NUMBER_OF_PS_ON_LOCATION: 6, PS_NUMBERS: [130, 131, 132, 133, 134, 135], POLICE_STATION: VIKASPURI, SUB_DIVISION: PUNJABI BAGH, BUILDING_OR_TENT: TENT, CRITICAL_OR_NORMAL: NORMAL"]
+    },              
     {
       "tag": "List of DPO",
       "patterns": [
