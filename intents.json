@@ -154,6 +154,11 @@
       "responses": ["Section 32-RPA \n- Punishment: 3 months to 2 years with fine \n- Cognizable: No \n- Bailable: Yes"]
     },
     {
+      "tag": "section_32-RPA-converse",
+      "patterns": ["section 32 RPA", "32 RPA", "32RPA"],
+      "responses": ["section 32-RPA\nOffense: breach of official duty\nPunishment: 3 months to 2 years with fine\nCognizable: No\nBailable: Yes"]
+    },    
+    {
       "tag": "section_125_RPA",
       "patterns": ["Promoting enmity between classes in c/w election", "What is provision for promoting enmity between classes in c/w election?", "What is the punishment for promoting enmity between classes in c/w election?", "Is promoting enmity between classes in c/w election cognizable?", "Is promoting enmity between classes in c/w election bailable?"],
       "responses": ["Section 125-RPA \n- Punishment: 3 years or fine or both \n- Cognizable: Yes \n- Bailable: No"]
