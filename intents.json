@@ -353,27 +353,27 @@
     },
     {
       "tag": "election_commission_do_1",
-      "patterns": ["On-going programmes", "Continuation of ongoing programmes", "Can ongoing programmes continue during elections?"],
+      "patterns": ["ongoing program","ongoing programmes","On-going programmes", "Continuation of ongoing programmes", "Can ongoing programmes continue during elections?"],
       "responses": ["On-going programmes, which actually started in the field before the announcement of elections may continue."]
     },
     {
       "tag": "election_commission_do_2",
-      "patterns": ["Relief and rehabilitation measures", "Commencing relief measures during elections", "Can relief measures be started during elections?"],
+      "patterns": ["can relief measures continue?", "rehab measures","rehabilitation measures","relief measures","Relief and rehabilitation measures", "Commencing relief measures during elections", "Can relief measures be started during elections?"],
       "responses": ["Relief and rehabilitation measures to the people in areas affected by floods, drought, pestilence, and other natural calamities, can commence and continue."]
     },
     {
       "tag": "election_commission_do_3",
-      "patterns": ["Grant of cash or medical facilities to terminally or critically ill persons", "Providing assistance to terminally ill during elections", "Can cash or medical assistance be provided during elections?"],
+      "patterns": ["Grant of cash or medical facilities to terminally or critically ill persons", "Providing assistance to terminally ill during elections", "Can cash or medical assistance be provided during elections?", "medical assistance during elections", "medical aid during elections", "cash grant for medical reasons"],
       "responses": ["Grant of cash or medical facilities to terminally or critically ill persons can continue with appropriate approvals."]
     },
     {
       "tag": "election_commission_do_4",
-      "patterns": ["Availability of public places for election meetings", "Equal access to maidans for election meetings", "Can all parties use public places for meetings?"],
-      "responses": ["Public places like maidans must be available impartially to all parties/contesting candidates for holding election meetings."]
+      "patterns": ["Availability of public places for election meetings", "Equal access to maidans for election meetings", "Can all parties use public places for meetings?", "useage of public areas for meetings", "public area for meeting", "meeting in public area"],
+      "responses": ["Public places like maidans are available impartially to all parties/contesting candidates for holding election meetings."]
     },
     {
       "tag": "election_commission_do_5",
-      "patterns": ["Criticism of other political parties and candidates", "Rules for criticism during elections", "Are there guidelines for criticizing other parties?"],
+      "patterns": ["Criticism of other political parties and candidates", "Rules for criticism during elections", "Are there guidelines for criticizing other parties?", "criticism of other parties", "criticism during elections"],
       "responses": ["Criticism of other political parties and candidates should relate to their policies, programme, past record and work."]
     },
     {
@@ -393,17 +393,17 @@
     },
     {
       "tag": "election_commission_do_9",
-      "patterns": ["Obtaining permission for loudspeakers", "Using loudspeakers during elections", "Is permission required for loudspeakers during elections?"],
+      "patterns": ["Obtaining permission for loudspeakers", "Using loudspeakers during elections", "Is permission required for loudspeakers during elections?", "can we use loudspeakers during elections", "usage of loudspeakers", "permission for loudspeakers", "i want to use loudspeakers during elections"],
       "responses": ["Permission must be obtained for the use of loudspeakers or any other such facilities for the proposed meetings."]
     },
     {
       "tag": "election_commission_do_10",
-      "patterns": ["Seeking assistance of police in maintaining order", "Seeking police help during elections", "Can police assistance be sought during elections?"],
+      "patterns": ["Seeking assistance of police in maintaining order", "Seeking police help during elections", "Can police assistance be sought during elections?", "seeking police assistance", "calling police for help"],
       "responses": ["The assistance of the police should be obtained in dealing with persons disturbing meetings or otherwise creating disorder."]
     },
     {
       "tag": "election_commission_do_11",
-      "patterns": ["Planning procession routes in advance", "Deciding procession routes beforehand", "Should procession routes be planned before?"],
+      "patterns": ["Planning procession routes in advance", "Deciding procession routes beforehand", "Should procession routes be planned before?", "procession route", "planning procession"],
       "responses": ["The time and place of the starting of any procession, the route to be followed and the time and place at which the procession will terminate should be settled in advance and advance permissions obtained from the police authorities."]
     },
     {
@@ -418,7 +418,7 @@
     },
     {
       "tag": "election_commission_do_14",
-      "patterns": ["Displaying badges or identity cards by workers", "Wearing badges during elections", "Should workers wear badges during elections?"],
+      "patterns": ["Displaying badges or identity cards by workers", "Wearing badges during elections", "Should workers wear badges during elections?", "badges during elections", "badge on election duty"],
       "responses": ["All Workers must display badges or identity cards."]
     },
     {
@@ -433,7 +433,7 @@
     },
     {
       "tag": "election_commission_do_17",
-      "patterns": ["Restricting entry to polling booths", "Controlled entry to polling booths", "Who can enter polling booths during elections?"],
+      "patterns": ["Restricting entry to polling booths", "Controlled entry to polling booths", "Who can enter polling booths during elections?", "is there a restriction to entering polling booth during election?", "restriction in entry to polling booth"],
       "responses": ["(Except voters, candidates and their election/polling agents), only persons with a specific valid authority letter from the Election Commission can enter any polling booth. No functionary however highly placed (e.g. Chief Minister, Minister, MP or MLA etc) is exempt from this condition."]
     },
     {
@@ -465,12 +465,12 @@
     },
     {
       "tag": "dont_advertisements",
-      "patterns": ["Advertisements regarding achievements of the party/Government", "Are government advertisements allowed for party achievements?", "Are advertisements about government achievements permitted?", "Government achievements advertisement"],
+      "patterns": ["Advertisements regarding achievements of the party/Government", "Are government advertisements allowed for party achievements?", "Are advertisements about government achievements permitted?", "Government achievements advertisement", "govt advertisements in election"],
       "responses": ["No advertisements at the cost of the public exchequer regarding achievements of the party/Government in power is permitted."]
     },
     {
       "tag": "dont_ministers_polling_station",
-      "patterns": ["Ministers entering polling stations or places of counting", "Can ministers enter polling stations?", "Are ministers allowed inside polling stations?","minister entering polling station"],
+      "patterns": ["Ministers entering polling stations or places of counting", "Can ministers enter polling stations?", "Are ministers allowed inside polling stations?","minister entering polling station", "minister inside polling station"],
       "responses": ["No Minister shall enter any polling station or the place of counting, unless he or she is a candidate or as a voter only for voting."]
     },
     {
@@ -490,7 +490,7 @@
     },
     {
       "tag": "dont_aggravate_differences",
-      "patterns": ["Aggravating existing differences between groups", "Can activities aggravate differences between groups?", "Is it allowed to cause tension between different groups?"],
+      "patterns": ["Aggravating existing differences between groups", "Can activities aggravate differences between groups?", "Is it allowed to cause tension between different groups?", "tension between social groups"],
       "responses": ["No activity, which may aggravate existing differences or create mutual hatred or cause tension between different castes, communities or religious or linguistic groups shall be attempted."]
     },
     {
@@ -646,11 +646,6 @@
   "responses": [
       "SECTOR OFFICER NAME : ABHAY\nSECTOR OFFICER CONTACT NO. 9636014299\nAC NO 45\n\nSECTOR OFFICER NAME : CHANDER PRAKASH MEENA\nSECTOR OFFICER CONTACT NO. 9910769635\nAC NO 48\n\nSECTOR OFFICER NAME : RAJENDER KUMAR\nSECTOR OFFICER CONTACT NO. 9971866754\nAC NO 48\n\nSECTOR OFFICER NAME : RAMKESH MALI\nSECTOR OFFICER CONTACT NO. 9887846639\nAC NO 48\n\nSECTOR OFFICER NAME : P. NARESH CHAWAN\nSECTOR OFFICER CONTACT NO. 9014197111\nAC NO 48\n\nSECTOR OFFICER NAME : NAMAN VERMA\nSECTOR OFFICER CONTACT NO. 7507091039\nAC NO 48\n\nSECTOR OFFICER NAME : HEMANT KUMAR PANIDA\nSECTOR OFFICER CONTACT NO. 8860017940\nAC NO 48\n\nSECTOR OFFICER NAME : AKSHAY KUMAR\nSECTOR OFFICER CONTACT NO. 9711282135\nAC NO 48"
   ]
-}
-
-
-
-  
-    
+}    
   ]
 }
