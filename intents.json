@@ -597,6 +597,56 @@
       "responses":["CENTRAL POLICE CONTROL ROOM - 112"]
     },
     {
+      "tag": "DCP/SD",
+      "patterns": [
+        "DCP of south district",
+        "Contact details for DCP south district",
+        "Who is DCP of south district?"
+      ],
+      "responses": [
+        "Sh. Ankit Chauhan\n- Call Sign: Siera-1\n- Phone No.: 9818099047, 26857726, 26858366\n- Email: dcp.south@delhipolice.gov.in"
+      ]
+    },
+    {
+      "tag": "Ankit_Chauhan",
+      "patterns": ["Ankit Chauhan","DCP Ankit Chauhan","Contact details for Ankit Chauhan"],
+      "responses": ["Sh. Ankit Chauhan\n- Call Sign: Siera-1\n- Phone No.: 9818099047, 26857726, 26858366\n- Email: dcp.south@delhipolice.gov.in"]
+    },
+    {
+      "tag": "Achin_Garg",
+      "patterns": ["Achin Garg","Additional DCP-I Achin Garg","Contact details for Achin Garg"],
+      "responses": [
+        "Sh. Achin Garg\n- Call Sign: Siera-2\n- Phone No.: 9818099067, 26852095, 26866162\n- Email: adcp1.south@delhipolice.gov.in"
+      ]
+    },
+    {
+      "tag": "Ashok_Kumar",
+      "patterns": ["Ashok Kumar", "Additional DCP-II Ashok Kumar", "Contact details for Ashok Kumar"],
+      "responses": ["Sh. Ashok Kumar\n- Call Sign: Siera-3\n- Phone No.: 8750870803, 9582036629, 26865965, 26526530\n- Email: adcp2.south@delhipolice.gov.in"]
+    },        
+    {
+      "tag": "Additional_DCP-I",
+      "patterns": [
+        "Additional DCP-I",
+        "contact details for Additional DCP-I",
+        "who is Additional DCP-I?"
+      ],
+      "responses": [
+        "Sh. Achin Garg\n- Call Sign: Siera-2\n- Phone No.: 9818099067, 26852095, 26866162\n- Email: adcp1.south@delhipolice.gov.in"
+      ]
+    },
+    {
+      "tag": "Additional_DCP-II",
+      "patterns": [
+        "Additional DCP-II",
+        "contact details for Additional DCP-II",
+        "who is Additional DCP-II?"
+      ],
+      "responses": [
+        "Sh. Ashok Kumar\n- Call Sign: Siera-3\n- Phone No.: 8750870803, 9582036629, 26865965, 26526530\n- Email: adcp2.south@delhipolice.gov.in"
+      ]
+    },             
+    {
       "tag": "List of DPO",
       "patterns": [
         "Who are our Data Protection Officers?",
