@@ -194,9 +194,19 @@
       "responses": ["Section 127-RPA (A) \n- Punishment: 6 months or Rs.2000/- or both \n- Cognizable: No \n- Bailable: Yes"]
     },    
     {
+      "tag": "section_127-RPA(A)-converse",
+      "patterns": ["section 127 RPA (A)", "127 RPA (A)", "127RPA(A)"],
+      "responses": ["section 127-RPA (A)\nOffense: failure to mention name and address of printer/publisher on pamphlets\nPunishment: 6 months or Rs.2000/- or both\nCognizable: No\nBailable: Yes"]
+    },    
+    {
       "tag": "section_128_RPA",
       "patterns": ["Violation of secrecy by staff in respect of voting and posters etc.", "What is provision for violation of secrecy by staff in respect of voting and posters etc.?", "What is the punishment for violation of secrecy by staff in respect of voting and posters etc.?", "Is violation of secrecy by staff in respect of voting and posters etc. cognizable?", "Is violation of secrecy by staff in respect of voting and posters etc. bailable?"],
       "responses": ["Section 128-RPA \n- Punishment: 3 months or fine or both \n- Cognizable: No \n- Bailable: Yes"]
+    },    
+    {
+      "tag": "section_128-RPA-converse",
+      "patterns": ["section 128 RPA", "128 RPA", "128RPA"],
+      "responses": ["section 128-RPA\nOffense: violation of secrecy by staff in respect of voting and posters etc.\nPunishment: 3 months or fine or both\nCognizable: No\nBailable: Yes"]
     },    
     {
       "tag": "section_129_RPA_3",
