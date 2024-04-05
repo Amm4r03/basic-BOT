@@ -587,6 +587,16 @@
       "responses": ["New Delhi n Parliamentary Constituency-04n -Ac No.-40\nAc Name- New Delhi"]
     },
     {
+      "tag": "district control room south district",
+      "patterns":["contact details for district control room south district", "south district control room details", "contact for south district control room"],
+      "responses":["CONTACT DETAILS FOR CONTROL ROOM SOUTH DISTRICT : \n011-26523967\n011-26528994"]
+    },
+    {
+      "tag": "central police control room",
+      "patterns": ["contact for central police room", "central police room contact", "central police control room contact details", "what is the number for central police control room", "central room delhi police contact details"],
+      "responses":["CENTRAL POLICE CONTROL ROOM - 112"]
+    },
+    {
       "tag": "List of DPO",
       "patterns": [
         "Who are our Data Protection Officers?",
