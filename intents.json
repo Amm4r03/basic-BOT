@@ -144,6 +144,11 @@
       "responses": ["Section 31 RPA \n- Punishment: One year or fine or both \n- Cognizable: No \n- Bailable: Yes"]
     },
     {
+      "tag": "section_31-RPA-converse",
+      "patterns": ["section 31 RPA", "31 RPA", "31RPA"],
+      "responses": ["section 31 RPA\nOffense: making false declaration\nPunishment: One year or fine or both\nCognizable: No\nBailable: Yes"]
+    },    
+    {
       "tag": "section_32_RPA",
       "patterns": ["Breach of official duty", "What is provision for breach of official duty?", "What is the punishment for breach of official duty?", "Is breach of official duty cognizable?", "Is breach of official duty bailable?"],
       "responses": ["Section 32-RPA \n- Punishment: 3 months to 2 years with fine \n- Cognizable: No \n- Bailable: Yes"]
